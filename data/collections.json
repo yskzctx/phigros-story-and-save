@@ -1,0 +1,4529 @@
+[
+  {
+    "id": "C02-shijian0-1",
+    "title": "诗笺#0",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《诗笺#0》",
+    "key": "shijian0",
+    "sub_index": 1,
+    "database_index": 0
+  },
+  {
+    "id": "C02-shijian1-1",
+    "title": "诗笺#1",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《诗笺#1》",
+    "key": "shijian1",
+    "sub_index": 1,
+    "database_index": 1
+  },
+  {
+    "id": "C02-shijian2-1",
+    "title": "诗笺#2",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《诗笺#2》",
+    "key": "shijian2",
+    "sub_index": 1,
+    "database_index": 2
+  },
+  {
+    "id": "C02-shijian3-1",
+    "title": "诗笺#3",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《诗笺#3》",
+    "key": "shijian3",
+    "sub_index": 1,
+    "database_index": 3
+  },
+  {
+    "id": "C02-shijian4-1",
+    "title": "诗笺#4",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《诗笺#4》",
+    "key": "shijian4",
+    "sub_index": 1,
+    "database_index": 4
+  },
+  {
+    "id": "C02-shijian5-1",
+    "title": "诗笺#5",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《诗笺#5》",
+    "key": "shijian5",
+    "sub_index": 1,
+    "database_index": 5
+  },
+  {
+    "id": "C02-shijian6-1",
+    "title": "诗笺#6",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《诗笺#6》",
+    "key": "shijian6",
+    "sub_index": 1,
+    "database_index": 6
+  },
+  {
+    "id": "C03-shijian7-1",
+    "title": "诗笺#7",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《诗笺#7》",
+    "key": "shijian7",
+    "sub_index": 1,
+    "database_index": 7
+  },
+  {
+    "id": "C03-shijian8-1",
+    "title": "诗笺#8",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《诗笺#8》",
+    "key": "shijian8",
+    "sub_index": 1,
+    "database_index": 8
+  },
+  {
+    "id": "C03-shijian9-1",
+    "title": "诗笺#9",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《诗笺#9》",
+    "key": "shijian9",
+    "sub_index": 1,
+    "database_index": 9
+  },
+  {
+    "id": "C02-alpa-1",
+    "title": "录音笔Alpa",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《录音笔Alpa》",
+    "key": "alpa",
+    "sub_index": 1,
+    "database_index": 10
+  },
+  {
+    "id": "C02-alpa-2",
+    "title": "录音笔Alpa·线索一",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《录音笔Alpa·线索一》",
+    "key": "alpa",
+    "sub_index": 2,
+    "database_index": 11
+  },
+  {
+    "id": "C02-alpa-3",
+    "title": "录音笔Alpa·线索二",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《录音笔Alpa·线索二》",
+    "key": "alpa",
+    "sub_index": 3,
+    "database_index": 12
+  },
+  {
+    "id": "C02-alpa-4",
+    "title": "录音笔Alpa·线索三",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《录音笔Alpa·线索三》",
+    "key": "alpa",
+    "sub_index": 4,
+    "database_index": 13
+  },
+  {
+    "id": "C02-Yshanfeng-1",
+    "title": "【录音】山风",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《【录音】山风》",
+    "key": "Yshanfeng",
+    "sub_index": 1,
+    "database_index": 14
+  },
+  {
+    "id": "C03-922alice-1",
+    "title": "周边·判定线抱枕",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《周边·判定线抱枕》",
+    "key": "922alice",
+    "sub_index": 1,
+    "database_index": 15
+  },
+  {
+    "id": "C02-7huizhang-1",
+    "title": "第七小队徽章",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《第七小队徽章》",
+    "key": "7huizhang",
+    "sub_index": 1,
+    "database_index": 16
+  },
+  {
+    "id": "C02-Yhuoguo-1",
+    "title": "【录音】火锅",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《【录音】火锅》",
+    "key": "Yhuoguo",
+    "sub_index": 1,
+    "database_index": 17
+  },
+  {
+    "id": "C02-Ysleep-1",
+    "title": "【录音】睡眠",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《【录音】睡眠》",
+    "key": "Ysleep",
+    "sub_index": 1,
+    "database_index": 18
+  },
+  {
+    "id": "C02-Ysleep-2",
+    "title": "【录音】睡眠·线索一",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《【录音】睡眠·线索一》",
+    "key": "Ysleep",
+    "sub_index": 2,
+    "database_index": 19
+  },
+  {
+    "id": "C02-Ysnow-1",
+    "title": "【录音】踩雪",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《【录音】踩雪》",
+    "key": "Ysnow",
+    "sub_index": 1,
+    "database_index": 20
+  },
+  {
+    "id": "C02-trophon-1",
+    "title": "两用摩托Trophon",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《两用摩托Trophon》",
+    "key": "trophon",
+    "sub_index": 1,
+    "database_index": 21
+  },
+  {
+    "id": "C02-trophon-2",
+    "title": "两用摩托Trophon·线索一",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《两用摩托Trophon·线索一》",
+    "key": "trophon",
+    "sub_index": 2,
+    "database_index": 22
+  },
+  {
+    "id": "C02-trophon-3",
+    "title": "两用摩托Trophon·线索二",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《两用摩托Trophon·线索二》",
+    "key": "trophon",
+    "sub_index": 3,
+    "database_index": 23
+  },
+  {
+    "id": "C02-trophon-4",
+    "title": "两用摩托Trophon·线索三",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《两用摩托Trophon·线索三》",
+    "key": "trophon",
+    "sub_index": 4,
+    "database_index": 24
+  },
+  {
+    "id": "C02-cookies-1",
+    "title": "空投小饼干",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《空投小饼干》",
+    "key": "cookies",
+    "sub_index": 1,
+    "database_index": 25
+  },
+  {
+    "id": "C02-flute-1",
+    "title": "梆笛",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《梆笛》",
+    "key": "flute",
+    "sub_index": 1,
+    "database_index": 26
+  },
+  {
+    "id": "C03-flute-2",
+    "title": "梆笛·线索一",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《梆笛·线索一》",
+    "key": "flute",
+    "sub_index": 2,
+    "database_index": 27
+  },
+  {
+    "id": "C02-Yhuangying-1",
+    "title": "【录音】黄莺亮翅",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《【录音】黄莺亮翅》",
+    "key": "Yhuangying",
+    "sub_index": 1,
+    "database_index": 28
+  },
+  {
+    "id": "C02-shushekey-1",
+    "title": "宿舍钥匙",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《宿舍钥匙》",
+    "key": "shushekey",
+    "sub_index": 1,
+    "database_index": 29
+  },
+  {
+    "id": "C02-deemoangle-1",
+    "title": "魇魉角",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《魇魉角》",
+    "key": "deemoangle",
+    "sub_index": 1,
+    "database_index": 30
+  },
+  {
+    "id": "C02-electicgun-1",
+    "title": "电磁霰弹枪",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《电磁霰弹枪》",
+    "key": "electicgun",
+    "sub_index": 1,
+    "database_index": 31
+  },
+  {
+    "id": "C02-yulo-1",
+    "title": "鱼篓",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《鱼篓》",
+    "key": "yulo",
+    "sub_index": 1,
+    "database_index": 32
+  },
+  {
+    "id": "C02-Yyuxi-1",
+    "title": "【录音】鱼戏",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《【录音】鱼戏》",
+    "key": "Yyuxi",
+    "sub_index": 1,
+    "database_index": 33
+  },
+  {
+    "id": "C02-hairtheo-1",
+    "title": "发",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《发》",
+    "key": "hairtheo",
+    "sub_index": 1,
+    "database_index": 34
+  },
+  {
+    "id": "C02-Yblackhole-1",
+    "title": "【录音】黑洞",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《【录音】黑洞》",
+    "key": "Yblackhole",
+    "sub_index": 1,
+    "database_index": 35
+  },
+  {
+    "id": "C02-Mzhiqiu-1",
+    "title": "【影像】脂球",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《【影像】脂球》",
+    "key": "Mzhiqiu",
+    "sub_index": 1,
+    "database_index": 36
+  },
+  {
+    "id": "C02-jinnang-1",
+    "title": "锦囊",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《锦囊》",
+    "key": "jinnang",
+    "sub_index": 1,
+    "database_index": 37
+  },
+  {
+    "id": "C02-binghaofu-1",
+    "title": "病号服",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《病号服》",
+    "key": "binghaofu",
+    "sub_index": 1,
+    "database_index": 38
+  },
+  {
+    "id": "C02-mopeknife-1",
+    "title": "花柄小刀",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《花柄小刀》",
+    "key": "mopeknife",
+    "sub_index": 1,
+    "database_index": 39
+  },
+  {
+    "id": "C02-Mshenjing-1",
+    "title": "【影像】深井",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《【影像】深井》",
+    "key": "Mshenjing",
+    "sub_index": 1,
+    "database_index": 40
+  },
+  {
+    "id": "C02-Ylight-1",
+    "title": "【录音】光",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《【录音】光》",
+    "key": "Ylight",
+    "sub_index": 1,
+    "database_index": 41
+  },
+  {
+    "id": "C02-saturn-1",
+    "title": "登入权限：土星",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《登入权限：土星》",
+    "key": "saturn",
+    "sub_index": 1,
+    "database_index": 42
+  },
+  {
+    "id": "C02-saturn-2",
+    "title": "登入权限：土星·线索一",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《登入权限：土星·线索一》",
+    "key": "saturn",
+    "sub_index": 2,
+    "database_index": 43
+  },
+  {
+    "id": "C02-327-1",
+    "title": "0327围剿令",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《0327围剿令》",
+    "key": "327",
+    "sub_index": 1,
+    "database_index": 44
+  },
+  {
+    "id": "C02-377-1",
+    "title": "魇皮纸377",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《魇皮纸377》",
+    "key": "377",
+    "sub_index": 1,
+    "database_index": 45
+  },
+  {
+    "id": "C02-377-2",
+    "title": "魇皮纸377·线索一",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《魇皮纸377·线索一》",
+    "key": "377",
+    "sub_index": 2,
+    "database_index": 46
+  },
+  {
+    "id": "C02-meishihui-1",
+    "title": "冰川美食汇",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《冰川美食汇》",
+    "key": "meishihui",
+    "sub_index": 1,
+    "database_index": 47
+  },
+  {
+    "id": "C02-meishihui-2",
+    "title": "冰川美食汇·线索一",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《冰川美食汇·线索一》",
+    "key": "meishihui",
+    "sub_index": 2,
+    "database_index": 48
+  },
+  {
+    "id": "C02-meishihui-3",
+    "title": "冰川美食汇·线索二",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《冰川美食汇·线索二》",
+    "key": "meishihui",
+    "sub_index": 3,
+    "database_index": 49
+  },
+  {
+    "id": "C02-meishihui-4",
+    "title": "冰川美食汇·线索三",
+    "chapter": "冰封世界",
+    "game_location": "收藏品 → 冰封世界 →《冰川美食汇·线索三》",
+    "key": "meishihui",
+    "sub_index": 4,
+    "database_index": 50
+  },
+  {
+    "id": "C01-mope1-1",
+    "title": "收容报告·小报",
+    "chapter": "额外章节",
+    "game_location": "收藏品 → 额外章节 →《收容报告·小报》",
+    "key": "mope1",
+    "sub_index": 1,
+    "database_index": 51
+  },
+  {
+    "id": "C01-mope2-1",
+    "title": "收容报告·红色蝴蝶结",
+    "chapter": "额外章节",
+    "game_location": "收藏品 → 额外章节 →《收容报告·红色蝴蝶结》",
+    "key": "mope2",
+    "sub_index": 1,
+    "database_index": 52
+  },
+  {
+    "id": "C01-mope2-2",
+    "title": "收容报告·红色蝴蝶结·线索一",
+    "chapter": "额外章节",
+    "game_location": "收藏品 → 额外章节 →《收容报告·红色蝴蝶结·线索一》",
+    "key": "mope2",
+    "sub_index": 2,
+    "database_index": 53
+  },
+  {
+    "id": "C01-mope3-1",
+    "title": "收容报告·陶土花盆",
+    "chapter": "额外章节",
+    "game_location": "收藏品 → 额外章节 →《收容报告·陶土花盆》",
+    "key": "mope3",
+    "sub_index": 1,
+    "database_index": 54
+  },
+  {
+    "id": "C01-mope3-2",
+    "title": "收容报告·陶土花盆·线索一",
+    "chapter": "额外章节",
+    "game_location": "收藏品 → 额外章节 →《收容报告·陶土花盆·线索一》",
+    "key": "mope3",
+    "sub_index": 2,
+    "database_index": 55
+  },
+  {
+    "id": "C01-mope3-3",
+    "title": "收容报告·陶土花盆·线索二",
+    "chapter": "额外章节",
+    "game_location": "收藏品 → 额外章节 →《收容报告·陶土花盆·线索二》",
+    "key": "mope3",
+    "sub_index": 3,
+    "database_index": 56
+  },
+  {
+    "id": "C01-mope4-1",
+    "title": "收容报告·裙底之物",
+    "chapter": "额外章节",
+    "game_location": "收藏品 → 额外章节 →《收容报告·裙底之物》",
+    "key": "mope4",
+    "sub_index": 1,
+    "database_index": 57
+  },
+  {
+    "id": "C01-mope4-2",
+    "title": "收容报告·裙底之物·线索一",
+    "chapter": "额外章节",
+    "game_location": "收藏品 → 额外章节 →《收容报告·裙底之物·线索一》",
+    "key": "mope4",
+    "sub_index": 2,
+    "database_index": 58
+  },
+  {
+    "id": "C01-B17treature-1",
+    "title": "公告·十七的宝藏",
+    "chapter": "额外章节",
+    "game_location": "收藏品 → 额外章节 →《公告·十七的宝藏》",
+    "key": "B17treature",
+    "sub_index": 1,
+    "database_index": 59
+  },
+  {
+    "id": "C01-gugugou-1",
+    "title": "鸽子集结号",
+    "chapter": "额外章节",
+    "game_location": "收藏品 → 额外章节 →《鸽子集结号》",
+    "key": "gugugou",
+    "sub_index": 1,
+    "database_index": 60
+  },
+  {
+    "id": "C01-jixiangruyi-1",
+    "title": "三尾吉祥鱼",
+    "chapter": "额外章节",
+    "game_location": "收藏品 → 额外章节 →《三尾吉祥鱼》",
+    "key": "jixiangruyi",
+    "sub_index": 1,
+    "database_index": 61
+  },
+  {
+    "id": "C01-nazotiaozhan-1",
+    "title": "给十七的挑战书",
+    "chapter": "额外章节",
+    "game_location": "收藏品 → 额外章节 →《给十七的挑战书》",
+    "key": "nazotiaozhan",
+    "sub_index": 1,
+    "database_index": 62
+  },
+  {
+    "id": "C01-nazotiaozhan-2",
+    "title": "给十七的挑战书·线索一",
+    "chapter": "额外章节",
+    "game_location": "收藏品 → 额外章节 →《给十七的挑战书·线索一》",
+    "key": "nazotiaozhan",
+    "sub_index": 2,
+    "database_index": 63
+  },
+  {
+    "id": "C01-kaoquanya-1",
+    "title": "烤 全 鸭",
+    "chapter": "额外章节",
+    "game_location": "收藏品 → 额外章节 →《烤 全 鸭》",
+    "key": "kaoquanya",
+    "sub_index": 1,
+    "database_index": 64
+  },
+  {
+    "id": "C03-younggino-1",
+    "title": "警长证",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《警长证》",
+    "key": "younggino",
+    "sub_index": 1,
+    "database_index": 65
+  },
+  {
+    "id": "C03-Mtowersakura-1",
+    "title": "【影像】塔",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《【影像】塔》",
+    "key": "Mtowersakura",
+    "sub_index": 1,
+    "database_index": 66
+  },
+  {
+    "id": "C03-Mxiabug-1",
+    "title": "【影像】现场勘验报告·夏草",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《【影像】现场勘验报告·夏草》",
+    "key": "Mxiabug",
+    "sub_index": 1,
+    "database_index": 67
+  },
+  {
+    "id": "C03-starshitsnow-1",
+    "title": "星星的碎片·冬",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《星星的碎片·冬》",
+    "key": "starshitsnow",
+    "sub_index": 1,
+    "database_index": 68
+  },
+  {
+    "id": "C03-listentomyradio-1",
+    "title": "收音机",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《收音机》",
+    "key": "listentomyradio",
+    "sub_index": 1,
+    "database_index": 69
+  },
+  {
+    "id": "C03-listentomyradio-2",
+    "title": "收音机·线索一",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《收音机·线索一》",
+    "key": "listentomyradio",
+    "sub_index": 2,
+    "database_index": 70
+  },
+  {
+    "id": "C03-listentomyradio-3",
+    "title": "收音机·线索二",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《收音机·线索二》",
+    "key": "listentomyradio",
+    "sub_index": 3,
+    "database_index": 71
+  },
+  {
+    "id": "C03-Ytaipingpingpang-1",
+    "title": "【录音】太平鼓",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《【录音】太平鼓》",
+    "key": "Ytaipingpingpang",
+    "sub_index": 1,
+    "database_index": 72
+  },
+  {
+    "id": "C03-magicballball-1",
+    "title": "魔术棒",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《魔术棒》",
+    "key": "magicballball",
+    "sub_index": 1,
+    "database_index": 73
+  },
+  {
+    "id": "C03-shihaungzhelingpai-1",
+    "title": "拾荒者令牌",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《拾荒者令牌》",
+    "key": "shihaungzhelingpai",
+    "sub_index": 1,
+    "database_index": 74
+  },
+  {
+    "id": "C03-hoodoomap-1",
+    "title": "石林地图",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《石林地图》",
+    "key": "hoodoomap",
+    "sub_index": 1,
+    "database_index": 75
+  },
+  {
+    "id": "C03-Yjiaohuachicken-1",
+    "title": "【录音】叫花鸡",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《【录音】叫花鸡》",
+    "key": "Yjiaohuachicken",
+    "sub_index": 1,
+    "database_index": 76
+  },
+  {
+    "id": "C03-greenchicken-1",
+    "title": "绿色变异种",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《绿色变异种》",
+    "key": "greenchicken",
+    "sub_index": 1,
+    "database_index": 77
+  },
+  {
+    "id": "C03-watertower8-1",
+    "title": "【影像】水塔",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《【影像】水塔》",
+    "key": "watertower8",
+    "sub_index": 1,
+    "database_index": 78
+  },
+  {
+    "id": "C03-trophon-5",
+    "title": "两用摩托Trophon·线索四",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《两用摩托Trophon·线索四》",
+    "key": "trophon",
+    "sub_index": 5,
+    "database_index": 79
+  },
+  {
+    "id": "C03-alpa-5",
+    "title": "录音笔Alpa·线索四",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《录音笔Alpa·线索四》",
+    "key": "alpa",
+    "sub_index": 5,
+    "database_index": 80
+  },
+  {
+    "id": "C03-alpa-6",
+    "title": "录音笔Alpa·线索五",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《录音笔Alpa·线索五》",
+    "key": "alpa",
+    "sub_index": 6,
+    "database_index": 81
+  },
+  {
+    "id": "C03-Ymorningmyworld-1",
+    "title": "【录音】晨",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《【录音】晨》",
+    "key": "Ymorningmyworld",
+    "sub_index": 1,
+    "database_index": 82
+  },
+  {
+    "id": "C03-Ymorningmyworld-2",
+    "title": "【录音】晨·线索一",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《【录音】晨·线索一》",
+    "key": "Ymorningmyworld",
+    "sub_index": 2,
+    "database_index": 83
+  },
+  {
+    "id": "C03-wucaishi-1",
+    "title": "五彩石",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《五彩石》",
+    "key": "wucaishi",
+    "sub_index": 1,
+    "database_index": 84
+  },
+  {
+    "id": "C03-rainbowbook-1",
+    "title": "彩虹绘本",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《彩虹绘本》",
+    "key": "rainbowbook",
+    "sub_index": 1,
+    "database_index": 85
+  },
+  {
+    "id": "C03-metalarm-1",
+    "title": "金属臂",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《金属臂》",
+    "key": "metalarm",
+    "sub_index": 1,
+    "database_index": 86
+  },
+  {
+    "id": "C03-kuxingren-1",
+    "title": "苦杏仁",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《苦杏仁》",
+    "key": "kuxingren",
+    "sub_index": 1,
+    "database_index": 87
+  },
+  {
+    "id": "C03-listentomyradio-4",
+    "title": "收音机·线索三",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《收音机·线索三》",
+    "key": "listentomyradio",
+    "sub_index": 4,
+    "database_index": 88
+  },
+  {
+    "id": "C03-Mfuliautoshooter-1",
+    "title": "【影像】Fuli Auto Shooter！",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《【影像】Fuli Auto Shooter！》",
+    "key": "Mfuliautoshooter",
+    "sub_index": 1,
+    "database_index": 89
+  },
+  {
+    "id": "C03-bulletboom-1",
+    "title": "巴雷特外壳",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《巴雷特外壳》",
+    "key": "bulletboom",
+    "sub_index": 1,
+    "database_index": 90
+  },
+  {
+    "id": "C03-fulistructure-1",
+    "title": "Fuli雕像",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《Fuli雕像》",
+    "key": "fulistructure",
+    "sub_index": 1,
+    "database_index": 91
+  },
+  {
+    "id": "C03-Mstationkuzumi-1",
+    "title": "【影像】巢栖道站",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《【影像】巢栖道站》",
+    "key": "Mstationkuzumi",
+    "sub_index": 1,
+    "database_index": 92
+  },
+  {
+    "id": "C03-Mtuya-1",
+    "title": "【影像】涂鸦",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《【影像】涂鸦》",
+    "key": "Mtuya",
+    "sub_index": 1,
+    "database_index": 93
+  },
+  {
+    "id": "C03-hq004chepiao-1",
+    "title": "HQ004班次车票",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《HQ004班次车票》",
+    "key": "hq004chepiao",
+    "sub_index": 1,
+    "database_index": 94
+  },
+  {
+    "id": "C03-aiblood-1",
+    "title": "液压剂",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《液压剂》",
+    "key": "aiblood",
+    "sub_index": 1,
+    "database_index": 95
+  },
+  {
+    "id": "C03-justicemao-1",
+    "title": "锚",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《锚》",
+    "key": "justicemao",
+    "sub_index": 1,
+    "database_index": 96
+  },
+  {
+    "id": "C03-shijian10-1",
+    "title": "诗笺#10",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《诗笺#10》",
+    "key": "shijian10",
+    "sub_index": 1,
+    "database_index": 97
+  },
+  {
+    "id": "C03-shijian11-1",
+    "title": "诗笺#11",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《诗笺#11》",
+    "key": "shijian11",
+    "sub_index": 1,
+    "database_index": 98
+  },
+  {
+    "id": "C03-Mbaolei-1",
+    "title": "【影像】堡垒",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《【影像】堡垒》",
+    "key": "Mbaolei",
+    "sub_index": 1,
+    "database_index": 99
+  },
+  {
+    "id": "C03-Mstationkuzumi-2",
+    "title": "【影像】巢栖道站·线索一",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《【影像】巢栖道站·线索一》",
+    "key": "Mstationkuzumi",
+    "sub_index": 2,
+    "database_index": 100
+  },
+  {
+    "id": "C07-chongsheng-1",
+    "title": "重生",
+    "chapter": "方舟蜃景",
+    "game_location": "收藏品 → 方舟蜃景 →《重生》",
+    "key": "chongsheng",
+    "sub_index": 1,
+    "database_index": 101
+  },
+  {
+    "id": "C07-poyiARK-1",
+    "title": "破译·望影の方舟Six",
+    "chapter": "方舟蜃景",
+    "game_location": "收藏品 → 方舟蜃景 →《破译·望影の方舟Six》",
+    "key": "poyiARK",
+    "sub_index": 1,
+    "database_index": 102
+  },
+  {
+    "id": "C07-poyiARK-2",
+    "title": "破译·望影の方舟Six·线索一",
+    "chapter": "方舟蜃景",
+    "game_location": "收藏品 → 方舟蜃景 →《破译·望影の方舟Six·线索一》",
+    "key": "poyiARK",
+    "sub_index": 2,
+    "database_index": 103
+  },
+  {
+    "id": "C07-poyiIG-1",
+    "title": "破译·Igallta",
+    "chapter": "方舟蜃景",
+    "game_location": "收藏品 → 方舟蜃景 →《破译·Igallta》",
+    "key": "poyiIG",
+    "sub_index": 1,
+    "database_index": 104
+  },
+  {
+    "id": "C11-zhixian10-1",
+    "title": "旁白：忘忧宫",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《旁白：忘忧宫》",
+    "key": "zhixian10",
+    "sub_index": 1,
+    "database_index": 105
+  },
+  {
+    "id": "C11-zhixian11-1",
+    "title": "旁白：奥德修斯港",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《旁白：奥德修斯港》",
+    "key": "zhixian11",
+    "sub_index": 1,
+    "database_index": 106
+  },
+  {
+    "id": "C11-zhixian12-1",
+    "title": "旁白：克洛诺斯",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《旁白：克洛诺斯》",
+    "key": "zhixian12",
+    "sub_index": 1,
+    "database_index": 107
+  },
+  {
+    "id": "C11-zhixian13-1",
+    "title": "旁白：奇迹之森",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《旁白：奇迹之森》",
+    "key": "zhixian13",
+    "sub_index": 1,
+    "database_index": 108
+  },
+  {
+    "id": "C11-zhixian14-1",
+    "title": "旁白：迷宫尽头",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《旁白：迷宫尽头》",
+    "key": "zhixian14",
+    "sub_index": 1,
+    "database_index": 109
+  },
+  {
+    "id": "C11-lawabofumiele-1",
+    "title": "《拉瓦钵的覆灭》",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《《拉瓦钵的覆灭》》",
+    "key": "lawabofumiele",
+    "sub_index": 1,
+    "database_index": 110
+  },
+  {
+    "id": "C11-lawabofumiele-2",
+    "title": "《拉瓦钵的覆灭》·线索一",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《《拉瓦钵的覆灭》·线索一》",
+    "key": "lawabofumiele",
+    "sub_index": 2,
+    "database_index": 111
+  },
+  {
+    "id": "C11-lawabofumiele-3",
+    "title": "《拉瓦钵的覆灭》·线索二",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《《拉瓦钵的覆灭》·线索二》",
+    "key": "lawabofumiele",
+    "sub_index": 3,
+    "database_index": 112
+  },
+  {
+    "id": "C11-lawabofumiele-4",
+    "title": "《拉瓦钵的覆灭》·线索三",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《《拉瓦钵的覆灭》·线索三》",
+    "key": "lawabofumiele",
+    "sub_index": 4,
+    "database_index": 113
+  },
+  {
+    "id": "C11-lawabofumiele-5",
+    "title": "《拉瓦钵的覆灭》·线索四",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《《拉瓦钵的覆灭》·线索四》",
+    "key": "lawabofumiele",
+    "sub_index": 5,
+    "database_index": 114
+  },
+  {
+    "id": "C11-xuwangzhixia-1",
+    "title": "虚妄之匣",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《虚妄之匣》",
+    "key": "xuwangzhixia",
+    "sub_index": 1,
+    "database_index": 115
+  },
+  {
+    "id": "C11-xuwangzhixia-2",
+    "title": "虚妄之匣·线索一",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《虚妄之匣·线索一》",
+    "key": "xuwangzhixia",
+    "sub_index": 2,
+    "database_index": 116
+  },
+  {
+    "id": "C11-xuwangzhixia-3",
+    "title": "虚妄之匣·线索二",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《虚妄之匣·线索二》",
+    "key": "xuwangzhixia",
+    "sub_index": 3,
+    "database_index": 117
+  },
+  {
+    "id": "C11-chaozhendong-1",
+    "title": "艾达的超震动小刀",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《艾达的超震动小刀》",
+    "key": "chaozhendong",
+    "sub_index": 1,
+    "database_index": 118
+  },
+  {
+    "id": "C11-chaozhendong-2",
+    "title": "艾达的超震动小刀·线索一",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《艾达的超震动小刀·线索一》",
+    "key": "chaozhendong",
+    "sub_index": 2,
+    "database_index": 119
+  },
+  {
+    "id": "C11-yanjiubonisi-1",
+    "title": "伯尼丝的研究笔记",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《伯尼丝的研究笔记》",
+    "key": "yanjiubonisi",
+    "sub_index": 1,
+    "database_index": 120
+  },
+  {
+    "id": "C11-yanjiubonisi-2",
+    "title": "伯尼丝的研究笔记·线索一",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《伯尼丝的研究笔记·线索一》",
+    "key": "yanjiubonisi",
+    "sub_index": 2,
+    "database_index": 121
+  },
+  {
+    "id": "C11-yanjiubonisi-3",
+    "title": "伯尼丝的研究笔记·线索二",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《伯尼丝的研究笔记·线索二》",
+    "key": "yanjiubonisi",
+    "sub_index": 3,
+    "database_index": 122
+  },
+  {
+    "id": "C11-yanjiubonisi-4",
+    "title": "伯尼丝的研究笔记·线索三",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《伯尼丝的研究笔记·线索三》",
+    "key": "yanjiubonisi",
+    "sub_index": 4,
+    "database_index": 123
+  },
+  {
+    "id": "C11-shenqikuabao-1",
+    "title": "伯尼丝的神奇挎包",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《伯尼丝的神奇挎包》",
+    "key": "shenqikuabao",
+    "sub_index": 1,
+    "database_index": 124
+  },
+  {
+    "id": "C11-shenqikuabao-2",
+    "title": "伯尼丝的神奇挎包·线索一",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《伯尼丝的神奇挎包·线索一》",
+    "key": "shenqikuabao",
+    "sub_index": 2,
+    "database_index": 125
+  },
+  {
+    "id": "C11-shenqikuabao-3",
+    "title": "伯尼丝的神奇挎包·线索二",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《伯尼丝的神奇挎包·线索二》",
+    "key": "shenqikuabao",
+    "sub_index": 3,
+    "database_index": 126
+  },
+  {
+    "id": "C11-shenqikuabao-4",
+    "title": "伯尼丝的神奇挎包·线索三",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《伯尼丝的神奇挎包·线索三》",
+    "key": "shenqikuabao",
+    "sub_index": 4,
+    "database_index": 127
+  },
+  {
+    "id": "C11-yundongxiangji-1",
+    "title": "萨芙的运动相机",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《萨芙的运动相机》",
+    "key": "yundongxiangji",
+    "sub_index": 1,
+    "database_index": 128
+  },
+  {
+    "id": "C11-yundongxiangji-2",
+    "title": "萨芙的运动相机·线索一",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《萨芙的运动相机·线索一》",
+    "key": "yundongxiangji",
+    "sub_index": 2,
+    "database_index": 129
+  },
+  {
+    "id": "C11-yundongxiangji-3",
+    "title": "萨芙的运动相机·线索二",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《萨芙的运动相机·线索二》",
+    "key": "yundongxiangji",
+    "sub_index": 3,
+    "database_index": 130
+  },
+  {
+    "id": "C11-yundongxiangji-4",
+    "title": "萨芙的运动相机·线索三",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《萨芙的运动相机·线索三》",
+    "key": "yundongxiangji",
+    "sub_index": 4,
+    "database_index": 131
+  },
+  {
+    "id": "C11-dinngxiangshensuo-1",
+    "title": "定向绳索",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《定向绳索》",
+    "key": "dinngxiangshensuo",
+    "sub_index": 1,
+    "database_index": 132
+  },
+  {
+    "id": "C11-dinngxiangshensuo-2",
+    "title": "定向绳索·线索一",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《定向绳索·线索一》",
+    "key": "dinngxiangshensuo",
+    "sub_index": 2,
+    "database_index": 133
+  },
+  {
+    "id": "C11-dinngxiangshensuo-3",
+    "title": "定向绳索·线索二",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《定向绳索·线索二》",
+    "key": "dinngxiangshensuo",
+    "sub_index": 3,
+    "database_index": 134
+  },
+  {
+    "id": "C11-shenfenzhengjian-1",
+    "title": "身份证件",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《身份证件》",
+    "key": "shenfenzhengjian",
+    "sub_index": 1,
+    "database_index": 135
+  },
+  {
+    "id": "C11-shenfenzhengjian-2",
+    "title": "身份证件·线索一",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《身份证件·线索一》",
+    "key": "shenfenzhengjian",
+    "sub_index": 2,
+    "database_index": 136
+  },
+  {
+    "id": "C11-shenfenzhengjian-3",
+    "title": "身份证件·线索二",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《身份证件·线索二》",
+    "key": "shenfenzhengjian",
+    "sub_index": 3,
+    "database_index": 137
+  },
+  {
+    "id": "C11-shenfenzhengjian-4",
+    "title": "身份证件·线索三",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《身份证件·线索三》",
+    "key": "shenfenzhengjian",
+    "sub_index": 4,
+    "database_index": 138
+  },
+  {
+    "id": "C11-zhenlizhizhu-1",
+    "title": "真理之珠",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《真理之珠》",
+    "key": "zhenlizhizhu",
+    "sub_index": 1,
+    "database_index": 139
+  },
+  {
+    "id": "C11-zhenlizhizhu-2",
+    "title": "真理之珠·线索一",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《真理之珠·线索一》",
+    "key": "zhenlizhizhu",
+    "sub_index": 2,
+    "database_index": 140
+  },
+  {
+    "id": "C11-zhenlizhizhu-3",
+    "title": "真理之珠·线索二",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《真理之珠·线索二》",
+    "key": "zhenlizhizhu",
+    "sub_index": 3,
+    "database_index": 141
+  },
+  {
+    "id": "C11-qietingqi-1",
+    "title": "窃听器",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《窃听器》",
+    "key": "qietingqi",
+    "sub_index": 1,
+    "database_index": 142
+  },
+  {
+    "id": "C11-qietingqi-2",
+    "title": "窃听器·线索一",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《窃听器·线索一》",
+    "key": "qietingqi",
+    "sub_index": 2,
+    "database_index": 143
+  },
+  {
+    "id": "C11-qietingqi-3",
+    "title": "窃听器·线索二",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《窃听器·线索二》",
+    "key": "qietingqi",
+    "sub_index": 3,
+    "database_index": 144
+  },
+  {
+    "id": "C11-chuhaijilu-1",
+    "title": "奥德修斯港出海记录",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《奥德修斯港出海记录》",
+    "key": "chuhaijilu",
+    "sub_index": 1,
+    "database_index": 145
+  },
+  {
+    "id": "C11-chuhaijilu-2",
+    "title": "奥德修斯港出海记录·线索一",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《奥德修斯港出海记录·线索一》",
+    "key": "chuhaijilu",
+    "sub_index": 2,
+    "database_index": 146
+  },
+  {
+    "id": "C11-chuhaijilu-3",
+    "title": "奥德修斯港出海记录·线索二",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《奥德修斯港出海记录·线索二》",
+    "key": "chuhaijilu",
+    "sub_index": 3,
+    "database_index": 147
+  },
+  {
+    "id": "C11-zhipian-1",
+    "title": "纸片",
+    "chapter": "忘忧宫",
+    "game_location": "收藏品 → 忘忧宫 →《纸片》",
+    "key": "zhipian",
+    "sub_index": 1,
+    "database_index": 148
+  },
+  {
+    "id": "C08-clockparadox-1",
+    "title": "【影像】时钟悖论",
+    "chapter": "时钟链接",
+    "game_location": "收藏品 → 时钟链接 →《【影像】时钟悖论》",
+    "key": "clockparadox",
+    "sub_index": 1,
+    "database_index": 149
+  },
+  {
+    "id": "C08-93Align-1",
+    "title": "时钟城第93届ALIGN梅花型拉力赛",
+    "chapter": "时钟链接",
+    "game_location": "收藏品 → 时钟链接 →《时钟城第93届ALIGN梅花型拉力赛》",
+    "key": "93Align",
+    "sub_index": 1,
+    "database_index": 150
+  },
+  {
+    "id": "C01-Kalpa1-1",
+    "title": "今年过节上春晚",
+    "chapter": "额外章节",
+    "game_location": "收藏品 → 额外章节 →《今年过节上春晚》",
+    "key": "Kalpa1",
+    "sub_index": 1,
+    "database_index": 151
+  },
+  {
+    "id": "C01-Kalpa2-1",
+    "title": "穿越小队少一人",
+    "chapter": "额外章节",
+    "game_location": "收藏品 → 额外章节 →《穿越小队少一人》",
+    "key": "Kalpa2",
+    "sub_index": 1,
+    "database_index": 152
+  },
+  {
+    "id": "C01-Kalpa3-1",
+    "title": "世界上的另个我",
+    "chapter": "额外章节",
+    "game_location": "收藏品 → 额外章节 →《世界上的另个我》",
+    "key": "Kalpa3",
+    "sub_index": 1,
+    "database_index": 153
+  },
+  {
+    "id": "C01-Kalpa4-1",
+    "title": "亲朋好友齐欢聚",
+    "chapter": "额外章节",
+    "game_location": "收藏品 → 额外章节 →《亲朋好友齐欢聚》",
+    "key": "Kalpa4",
+    "sub_index": 1,
+    "database_index": 154
+  },
+  {
+    "id": "C01-Kalpa5-1",
+    "title": "未来降临我身边",
+    "chapter": "额外章节",
+    "game_location": "收藏品 → 额外章节 →《未来降临我身边》",
+    "key": "Kalpa5",
+    "sub_index": 1,
+    "database_index": 155
+  },
+  {
+    "id": "C01-Lanota1-1",
+    "title": "破译·最后的音矿",
+    "chapter": "额外章节",
+    "game_location": "收藏品 → 额外章节 →《破译·最后的音矿》",
+    "key": "Lanota1",
+    "sub_index": 1,
+    "database_index": 156
+  },
+  {
+    "id": "C01-Lanota2-1",
+    "title": "破译·半封信",
+    "chapter": "额外章节",
+    "game_location": "收藏品 → 额外章节 →《破译·半封信》",
+    "key": "Lanota2",
+    "sub_index": 1,
+    "database_index": 157
+  },
+  {
+    "id": "C01-Lanota3-1",
+    "title": "破译·人偶",
+    "chapter": "额外章节",
+    "game_location": "收藏品 → 额外章节 →《破译·人偶》",
+    "key": "Lanota3",
+    "sub_index": 1,
+    "database_index": 158
+  },
+  {
+    "id": "C01-Lanota4-1",
+    "title": "破译·委托人",
+    "chapter": "额外章节",
+    "game_location": "收藏品 → 额外章节 →《破译·委托人》",
+    "key": "Lanota4",
+    "sub_index": 1,
+    "database_index": 159
+  },
+  {
+    "id": "C01-Lanota5-1",
+    "title": "生命之音",
+    "chapter": "额外章节",
+    "game_location": "收藏品 → 额外章节 →《生命之音》",
+    "key": "Lanota5",
+    "sub_index": 1,
+    "database_index": 160
+  },
+  {
+    "id": "C03-Efuliautoshooter-1",
+    "title": "摘录·守护日志·机关枪",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《摘录·守护日志·机关枪》",
+    "key": "Efuliautoshooter",
+    "sub_index": 1,
+    "database_index": 161
+  },
+  {
+    "id": "C03-Efuliautoshooter-2",
+    "title": "摘录·守护日志·机关枪·线索一",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《摘录·守护日志·机关枪·线索一》",
+    "key": "Efuliautoshooter",
+    "sub_index": 2,
+    "database_index": 162
+  },
+  {
+    "id": "C03-Efuliautoshooter-3",
+    "title": "摘录·守护日志·机关枪·线索二",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《摘录·守护日志·机关枪·线索二》",
+    "key": "Efuliautoshooter",
+    "sub_index": 3,
+    "database_index": 163
+  },
+  {
+    "id": "C03-Efuliautoshooter-4",
+    "title": "摘录·守护日志·机关枪·线索三",
+    "chapter": "废土之下",
+    "game_location": "收藏品 → 废土之下 →《摘录·守护日志·机关枪·线索三》",
+    "key": "Efuliautoshooter",
+    "sub_index": 4,
+    "database_index": 164
+  },
+  {
+    "id": "C04-shijian12-1",
+    "title": "诗笺#12·战士",
+    "chapter": "幽蓝边界",
+    "game_location": "收藏品 → 幽蓝边界 →《诗笺#12·战士》",
+    "key": "shijian12",
+    "sub_index": 1,
+    "database_index": 165
+  },
+  {
+    "id": "C04-shijian13-1",
+    "title": "诗笺#13·夜之歌",
+    "chapter": "幽蓝边界",
+    "game_location": "收藏品 → 幽蓝边界 →《诗笺#13·夜之歌》",
+    "key": "shijian13",
+    "sub_index": 1,
+    "database_index": 166
+  },
+  {
+    "id": "C04-shijian14-1",
+    "title": "诗笺#14·橄榄树上",
+    "chapter": "幽蓝边界",
+    "game_location": "收藏品 → 幽蓝边界 →《诗笺#14·橄榄树上》",
+    "key": "shijian14",
+    "sub_index": 1,
+    "database_index": 167
+  },
+  {
+    "id": "C04-shijian15-1",
+    "title": "诗笺#15·魔术师",
+    "chapter": "幽蓝边界",
+    "game_location": "收藏品 → 幽蓝边界 →《诗笺#15·魔术师》",
+    "key": "shijian15",
+    "sub_index": 1,
+    "database_index": 168
+  },
+  {
+    "id": "C04-shijian16-1",
+    "title": "诗笺#16·流浪人",
+    "chapter": "幽蓝边界",
+    "game_location": "收藏品 → 幽蓝边界 →《诗笺#16·流浪人》",
+    "key": "shijian16",
+    "sub_index": 1,
+    "database_index": 169
+  },
+  {
+    "id": "C04-zhanshi1-1",
+    "title": "战士·一·马",
+    "chapter": "幽蓝边界",
+    "game_location": "收藏品 → 幽蓝边界 →《战士·一·马》",
+    "key": "zhanshi1",
+    "sub_index": 1,
+    "database_index": 170
+  },
+  {
+    "id": "C04-zhanshi2-1",
+    "title": "战士·二·疾驰",
+    "chapter": "幽蓝边界",
+    "game_location": "收藏品 → 幽蓝边界 →《战士·二·疾驰》",
+    "key": "zhanshi2",
+    "sub_index": 1,
+    "database_index": 171
+  },
+  {
+    "id": "C04-zhanshi3-1",
+    "title": "战士·三·喜剧",
+    "chapter": "幽蓝边界",
+    "game_location": "收藏品 → 幽蓝边界 →《战士·三·喜剧》",
+    "key": "zhanshi3",
+    "sub_index": 1,
+    "database_index": 172
+  },
+  {
+    "id": "C04-zhanshi4-1",
+    "title": "战士·四·冰封",
+    "chapter": "幽蓝边界",
+    "game_location": "收藏品 → 幽蓝边界 →《战士·四·冰封》",
+    "key": "zhanshi4",
+    "sub_index": 1,
+    "database_index": 173
+  },
+  {
+    "id": "C04-zhanshi5-1",
+    "title": "战士·五·起飞",
+    "chapter": "幽蓝边界",
+    "game_location": "收藏品 → 幽蓝边界 →《战士·五·起飞》",
+    "key": "zhanshi5",
+    "sub_index": 1,
+    "database_index": 174
+  },
+  {
+    "id": "C04-zhanshi6-1",
+    "title": "战士·六·人类",
+    "chapter": "幽蓝边界",
+    "game_location": "收藏品 → 幽蓝边界 →《战士·六·人类》",
+    "key": "zhanshi6",
+    "sub_index": 1,
+    "database_index": 175
+  },
+  {
+    "id": "C05-shijian17-1",
+    "title": "诗笺#17 Zer0",
+    "chapter": "管道迷宫",
+    "game_location": "收藏品 → 管道迷宫 →《诗笺#17 Zer0》",
+    "key": "shijian17",
+    "sub_index": 1,
+    "database_index": 176
+  },
+  {
+    "id": "C05-shijian18-1",
+    "title": "Poem M2",
+    "chapter": "管道迷宫",
+    "game_location": "收藏品 → 管道迷宫 →《Poem M2》",
+    "key": "shijian18",
+    "sub_index": 1,
+    "database_index": 177
+  },
+  {
+    "id": "C05-shijian19-1",
+    "title": "Poem 3ere",
+    "chapter": "管道迷宫",
+    "game_location": "收藏品 → 管道迷宫 →《Poem 3ere》",
+    "key": "shijian19",
+    "sub_index": 1,
+    "database_index": 178
+  },
+  {
+    "id": "C05-shijian20-1",
+    "title": "Poem 4Y0",
+    "chapter": "管道迷宫",
+    "game_location": "收藏品 → 管道迷宫 →《Poem 4Y0》",
+    "key": "shijian20",
+    "sub_index": 1,
+    "database_index": 179
+  },
+  {
+    "id": "C05-shijian21-1",
+    "title": "Poem The 5no",
+    "chapter": "管道迷宫",
+    "game_location": "收藏品 → 管道迷宫 →《Poem The 5no》",
+    "key": "shijian21",
+    "sub_index": 1,
+    "database_index": 180
+  },
+  {
+    "id": "C05-uraometeStage-1",
+    "title": "里表舞厅",
+    "chapter": "管道迷宫",
+    "game_location": "收藏品 → 管道迷宫 →《里表舞厅》",
+    "key": "uraometeStage",
+    "sub_index": 1,
+    "database_index": 181
+  },
+  {
+    "id": "C05-uraometeStage-2",
+    "title": "里表舞厅·线索一",
+    "chapter": "管道迷宫",
+    "game_location": "收藏品 → 管道迷宫 →《里表舞厅·线索一》",
+    "key": "uraometeStage",
+    "sub_index": 2,
+    "database_index": 182
+  },
+  {
+    "id": "C05-uraometeStage-3",
+    "title": "里表舞厅·线索二",
+    "chapter": "管道迷宫",
+    "game_location": "收藏品 → 管道迷宫 →《里表舞厅·线索二》",
+    "key": "uraometeStage",
+    "sub_index": 3,
+    "database_index": 183
+  },
+  {
+    "id": "C05-uraometeStage-4",
+    "title": "里表舞厅·线索三",
+    "chapter": "管道迷宫",
+    "game_location": "收藏品 → 管道迷宫 →《里表舞厅·线索三》",
+    "key": "uraometeStage",
+    "sub_index": 4,
+    "database_index": 184
+  },
+  {
+    "id": "C05-Ebdrgblue-1",
+    "title": "摘录·碎数研档案·幽蓝国",
+    "chapter": "管道迷宫",
+    "game_location": "收藏品 → 管道迷宫 →《摘录·碎数研档案·幽蓝国》",
+    "key": "Ebdrgblue",
+    "sub_index": 1,
+    "database_index": 185
+  },
+  {
+    "id": "C05-Ebdrgblue-2",
+    "title": "碎数研-report-BUBD-22-1",
+    "chapter": "管道迷宫",
+    "game_location": "收藏品 → 管道迷宫 →《碎数研-report-BUBD-22-1》",
+    "key": "Ebdrgblue",
+    "sub_index": 2,
+    "database_index": 186
+  },
+  {
+    "id": "C05-Ebdrgblue-3",
+    "title": "碎数研-report-BUBD-22-2",
+    "chapter": "管道迷宫",
+    "game_location": "收藏品 → 管道迷宫 →《碎数研-report-BUBD-22-2》",
+    "key": "Ebdrgblue",
+    "sub_index": 3,
+    "database_index": 187
+  },
+  {
+    "id": "C05-Ebdrgblue-4",
+    "title": "碎数研-report-BUBD-23-1",
+    "chapter": "管道迷宫",
+    "game_location": "收藏品 → 管道迷宫 →《碎数研-report-BUBD-23-1》",
+    "key": "Ebdrgblue",
+    "sub_index": 4,
+    "database_index": 188
+  },
+  {
+    "id": "C05-Ebdrgblue-5",
+    "title": "碎数研-log-BUBD-951",
+    "chapter": "管道迷宫",
+    "game_location": "收藏品 → 管道迷宫 →《碎数研-log-BUBD-951》",
+    "key": "Ebdrgblue",
+    "sub_index": 5,
+    "database_index": 189
+  },
+  {
+    "id": "C05-Ebdrgblue-6",
+    "title": "碎数研-log-BUBD-952",
+    "chapter": "管道迷宫",
+    "game_location": "收藏品 → 管道迷宫 →《碎数研-log-BUBD-952》",
+    "key": "Ebdrgblue",
+    "sub_index": 6,
+    "database_index": 190
+  },
+  {
+    "id": "C05-cookies-2",
+    "title": "空投小饼干·线索一",
+    "chapter": "管道迷宫",
+    "game_location": "收藏品 → 管道迷宫 →《空投小饼干·线索一》",
+    "key": "cookies",
+    "sub_index": 2,
+    "database_index": 191
+  },
+  {
+    "id": "C05-mimao-1",
+    "title": "迷猫",
+    "chapter": "管道迷宫",
+    "game_location": "收藏品 → 管道迷宫 →《迷猫》",
+    "key": "mimao",
+    "sub_index": 1,
+    "database_index": 192
+  },
+  {
+    "id": "C05-mimao-2",
+    "title": "迷猫·线索一",
+    "chapter": "管道迷宫",
+    "game_location": "收藏品 → 管道迷宫 →《迷猫·线索一》",
+    "key": "mimao",
+    "sub_index": 2,
+    "database_index": 193
+  },
+  {
+    "id": "C05-TubeMaze-1",
+    "title": "管道迷宫",
+    "chapter": "管道迷宫",
+    "game_location": "收藏品 → 管道迷宫 →《管道迷宫》",
+    "key": "TubeMaze",
+    "sub_index": 1,
+    "database_index": 194
+  },
+  {
+    "id": "C05-TubeMaze-2",
+    "title": "管道迷宫·线索一",
+    "chapter": "管道迷宫",
+    "game_location": "收藏品 → 管道迷宫 →《管道迷宫·线索一》",
+    "key": "TubeMaze",
+    "sub_index": 2,
+    "database_index": 195
+  },
+  {
+    "id": "C05-TubeMaze-3",
+    "title": "管道迷宫·线索二",
+    "chapter": "管道迷宫",
+    "game_location": "收藏品 → 管道迷宫 →《管道迷宫·线索二》",
+    "key": "TubeMaze",
+    "sub_index": 3,
+    "database_index": 196
+  },
+  {
+    "id": "C05-TubeMaze-4",
+    "title": "管道迷宫·线索三",
+    "chapter": "管道迷宫",
+    "game_location": "收藏品 → 管道迷宫 →《管道迷宫·线索三》",
+    "key": "TubeMaze",
+    "sub_index": 4,
+    "database_index": 197
+  },
+  {
+    "id": "C05-TubeMaze-5",
+    "title": "管道迷宫·线索四",
+    "chapter": "管道迷宫",
+    "game_location": "收藏品 → 管道迷宫 →《管道迷宫·线索四》",
+    "key": "TubeMaze",
+    "sub_index": 5,
+    "database_index": 198
+  },
+  {
+    "id": "C05-dieyubi-1",
+    "title": "蝶羽笔",
+    "chapter": "管道迷宫",
+    "game_location": "收藏品 → 管道迷宫 →《蝶羽笔》",
+    "key": "dieyubi",
+    "sub_index": 1,
+    "database_index": 199
+  },
+  {
+    "id": "C05-dieyubi-2",
+    "title": "蝶羽笔·线索一",
+    "chapter": "管道迷宫",
+    "game_location": "收藏品 → 管道迷宫 →《蝶羽笔·线索一》",
+    "key": "dieyubi",
+    "sub_index": 2,
+    "database_index": 200
+  },
+  {
+    "id": "C05-jieji111-1",
+    "title": "街机游戏《催眠》",
+    "chapter": "管道迷宫",
+    "game_location": "收藏品 → 管道迷宫 →《街机游戏《催眠》》",
+    "key": "jieji111",
+    "sub_index": 1,
+    "database_index": 201
+  },
+  {
+    "id": "C05-jieji222-1",
+    "title": "街机游戏《瓶瓶罐罐》",
+    "chapter": "管道迷宫",
+    "game_location": "收藏品 → 管道迷宫 →《街机游戏《瓶瓶罐罐》》",
+    "key": "jieji222",
+    "sub_index": 1,
+    "database_index": 202
+  },
+  {
+    "id": "C05-jieji333-1",
+    "title": "街机游戏《Phigros》",
+    "chapter": "管道迷宫",
+    "game_location": "收藏品 → 管道迷宫 →《街机游戏《Phigros》》",
+    "key": "jieji333",
+    "sub_index": 1,
+    "database_index": 203
+  },
+  {
+    "id": "C05-jiejiwarofrainbow-1",
+    "title": "街机游戏《彩虹之战》",
+    "chapter": "管道迷宫",
+    "game_location": "收藏品 → 管道迷宫 →《街机游戏《彩虹之战》》",
+    "key": "jiejiwarofrainbow",
+    "sub_index": 1,
+    "database_index": 204
+  },
+  {
+    "id": "C05-jiejiwarofrainbow-2",
+    "title": "街机游戏《彩虹之战》·线索一",
+    "chapter": "管道迷宫",
+    "game_location": "收藏品 → 管道迷宫 →《街机游戏《彩虹之战》·线索一》",
+    "key": "jiejiwarofrainbow",
+    "sub_index": 2,
+    "database_index": 205
+  },
+  {
+    "id": "C05-jiejiwarofrainbow-3",
+    "title": "街机游戏《彩虹之战》·线索二",
+    "chapter": "管道迷宫",
+    "game_location": "收藏品 → 管道迷宫 →《街机游戏《彩虹之战》·线索二》",
+    "key": "jiejiwarofrainbow",
+    "sub_index": 3,
+    "database_index": 206
+  },
+  {
+    "id": "C05-alpa-7",
+    "title": "录音笔Alpa·线索六",
+    "chapter": "管道迷宫",
+    "game_location": "收藏品 → 管道迷宫 →《录音笔Alpa·线索六》",
+    "key": "alpa",
+    "sub_index": 7,
+    "database_index": 207
+  },
+  {
+    "id": "C05-mirrormirror-1",
+    "title": "镜像之镜",
+    "chapter": "管道迷宫",
+    "game_location": "收藏品 → 管道迷宫 →《镜像之镜》",
+    "key": "mirrormirror",
+    "sub_index": 1,
+    "database_index": 208
+  },
+  {
+    "id": "C05-mirrormirror-2",
+    "title": "镜像之镜·线索一",
+    "chapter": "管道迷宫",
+    "game_location": "收藏品 → 管道迷宫 →《镜像之镜·线索一》",
+    "key": "mirrormirror",
+    "sub_index": 2,
+    "database_index": 209
+  },
+  {
+    "id": "C05-maze00096-1",
+    "title": "谜题保管所:00096",
+    "chapter": "管道迷宫",
+    "game_location": "收藏品 → 管道迷宫 →《谜题保管所:00096》",
+    "key": "maze00096",
+    "sub_index": 1,
+    "database_index": 210
+  },
+  {
+    "id": "C05-maze00096-2",
+    "title": "谜题保管所:00096·线索一",
+    "chapter": "管道迷宫",
+    "game_location": "收藏品 → 管道迷宫 →《谜题保管所:00096·线索一》",
+    "key": "maze00096",
+    "sub_index": 2,
+    "database_index": 211
+  },
+  {
+    "id": "C05-maze00096-3",
+    "title": "谜题保管所:00096·线索二",
+    "chapter": "管道迷宫",
+    "game_location": "收藏品 → 管道迷宫 →《谜题保管所:00096·线索二》",
+    "key": "maze00096",
+    "sub_index": 3,
+    "database_index": 212
+  },
+  {
+    "id": "C05-youxibi-1",
+    "title": "游戏币",
+    "chapter": "管道迷宫",
+    "game_location": "收藏品 → 管道迷宫 →《游戏币》",
+    "key": "youxibi",
+    "sub_index": 1,
+    "database_index": 213
+  },
+  {
+    "id": "C05-youxibi-2",
+    "title": "游戏币·线索一",
+    "chapter": "管道迷宫",
+    "game_location": "收藏品 → 管道迷宫 →《游戏币·线索一》",
+    "key": "youxibi",
+    "sub_index": 2,
+    "database_index": 214
+  },
+  {
+    "id": "C06-shijian22-1",
+    "title": "诗笺#18 人·影·世",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《诗笺#18 人·影·世》",
+    "key": "shijian22",
+    "sub_index": 1,
+    "database_index": 215
+  },
+  {
+    "id": "C06-shijian23-1",
+    "title": "诗笺#19  天蓝",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《诗笺#19  天蓝》",
+    "key": "shijian23",
+    "sub_index": 1,
+    "database_index": 216
+  },
+  {
+    "id": "C06-shijian24-1",
+    "title": "诗笺#20 戏中",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《诗笺#20 戏中》",
+    "key": "shijian24",
+    "sub_index": 1,
+    "database_index": 217
+  },
+  {
+    "id": "C06-shijian25-1",
+    "title": "Poem Reimei",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《Poem Reimei》",
+    "key": "shijian25",
+    "sub_index": 1,
+    "database_index": 218
+  },
+  {
+    "id": "C06-Spasmodic-1",
+    "title": "破译·Spasmodic",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《破译·Spasmodic》",
+    "key": "Spasmodic",
+    "sub_index": 1,
+    "database_index": 219
+  },
+  {
+    "id": "C06-shijian26-1",
+    "title": "诗笺#21 悲惶",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《诗笺#21 悲惶》",
+    "key": "shijian26",
+    "sub_index": 1,
+    "database_index": 220
+  },
+  {
+    "id": "C06-shijian27-1",
+    "title": "诗笺#22 自由",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《诗笺#22 自由》",
+    "key": "shijian27",
+    "sub_index": 1,
+    "database_index": 221
+  },
+  {
+    "id": "C06-youxibi-3",
+    "title": "游戏币·线索二",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《游戏币·线索二》",
+    "key": "youxibi",
+    "sub_index": 3,
+    "database_index": 222
+  },
+  {
+    "id": "C06-trophon-6",
+    "title": "两用摩托Trophon·线索五",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《两用摩托Trophon·线索五》",
+    "key": "trophon",
+    "sub_index": 6,
+    "database_index": 223
+  },
+  {
+    "id": "C06-lvguanfangka-1",
+    "title": "旅馆房卡",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《旅馆房卡》",
+    "key": "lvguanfangka",
+    "sub_index": 1,
+    "database_index": 224
+  },
+  {
+    "id": "C06-bianqianban-1",
+    "title": "便签板",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《便签板》",
+    "key": "bianqianban",
+    "sub_index": 1,
+    "database_index": 225
+  },
+  {
+    "id": "C06-bianqianban-2",
+    "title": "便签板·线索一",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《便签板·线索一》",
+    "key": "bianqianban",
+    "sub_index": 2,
+    "database_index": 226
+  },
+  {
+    "id": "C06-bianqianban-3",
+    "title": "便签板·线索二",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《便签板·线索二》",
+    "key": "bianqianban",
+    "sub_index": 3,
+    "database_index": 227
+  },
+  {
+    "id": "C06-bianqianban-4",
+    "title": "便签板·线索三",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《便签板·线索三》",
+    "key": "bianqianban",
+    "sub_index": 4,
+    "database_index": 228
+  },
+  {
+    "id": "C06-bianqianban-5",
+    "title": "便签板·线索四",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《便签板·线索四》",
+    "key": "bianqianban",
+    "sub_index": 5,
+    "database_index": 229
+  },
+  {
+    "id": "C06-liusezhihonng-1",
+    "title": "六色之虹",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《六色之虹》",
+    "key": "liusezhihonng",
+    "sub_index": 1,
+    "database_index": 230
+  },
+  {
+    "id": "C06-wanguilai-1",
+    "title": "晚归来",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《晚归来》",
+    "key": "wanguilai",
+    "sub_index": 1,
+    "database_index": 231
+  },
+  {
+    "id": "C06-yaoxiang-1",
+    "title": "药箱",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《药箱》",
+    "key": "yaoxiang",
+    "sub_index": 1,
+    "database_index": 232
+  },
+  {
+    "id": "C06-yaoxiang-2",
+    "title": "药箱·线索一",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《药箱·线索一》",
+    "key": "yaoxiang",
+    "sub_index": 2,
+    "database_index": 233
+  },
+  {
+    "id": "C06-yaoxiang-3",
+    "title": "药箱·线索二",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《药箱·线索二》",
+    "key": "yaoxiang",
+    "sub_index": 3,
+    "database_index": 234
+  },
+  {
+    "id": "C06-yaoxiang-4",
+    "title": "药箱·线索三",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《药箱·线索三》",
+    "key": "yaoxiang",
+    "sub_index": 4,
+    "database_index": 235
+  },
+  {
+    "id": "C06-rainbowbook-2",
+    "title": "彩虹绘本·线索一",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《彩虹绘本·线索一》",
+    "key": "rainbowbook",
+    "sub_index": 2,
+    "database_index": 236
+  },
+  {
+    "id": "C06-shanheyebiaoben-1",
+    "title": "山荷叶标本",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《山荷叶标本》",
+    "key": "shanheyebiaoben",
+    "sub_index": 1,
+    "database_index": 237
+  },
+  {
+    "id": "C06-Mbeipan-1",
+    "title": "【影像】背叛",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《【影像】背叛》",
+    "key": "Mbeipan",
+    "sub_index": 1,
+    "database_index": 238
+  },
+  {
+    "id": "C06-bulandazishu-1",
+    "title": "布兰达的自述",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《布兰达的自述》",
+    "key": "bulandazishu",
+    "sub_index": 1,
+    "database_index": 239
+  },
+  {
+    "id": "C06-bulandazishu-2",
+    "title": "布兰达的自述·线索一",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《布兰达的自述·线索一》",
+    "key": "bulandazishu",
+    "sub_index": 2,
+    "database_index": 240
+  },
+  {
+    "id": "C06-Ynihongmeishi-1",
+    "title": "【录音】霓虹美食图鉴",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《【录音】霓虹美食图鉴》",
+    "key": "Ynihongmeishi",
+    "sub_index": 1,
+    "database_index": 241
+  },
+  {
+    "id": "C06-Ynihongmeishi-2",
+    "title": "【录音】霓虹美食图鉴·线索一",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《【录音】霓虹美食图鉴·线索一》",
+    "key": "Ynihongmeishi",
+    "sub_index": 2,
+    "database_index": 242
+  },
+  {
+    "id": "C06-Ynihongmeishi-3",
+    "title": "【录音】霓虹美食图鉴·线索二",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《【录音】霓虹美食图鉴·线索二》",
+    "key": "Ynihongmeishi",
+    "sub_index": 3,
+    "database_index": 243
+  },
+  {
+    "id": "C06-guru-1",
+    "title": "尊师古卢",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《尊师古卢》",
+    "key": "guru",
+    "sub_index": 1,
+    "database_index": 244
+  },
+  {
+    "id": "C06-nihon-1",
+    "title": "霓虹",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《霓虹》",
+    "key": "nihon",
+    "sub_index": 1,
+    "database_index": 245
+  },
+  {
+    "id": "C06-nihon-2",
+    "title": "霓虹·线索一",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《霓虹·线索一》",
+    "key": "nihon",
+    "sub_index": 2,
+    "database_index": 246
+  },
+  {
+    "id": "C06-nihon-3",
+    "title": "霓虹·线索二",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《霓虹·线索二》",
+    "key": "nihon",
+    "sub_index": 3,
+    "database_index": 247
+  },
+  {
+    "id": "C06-nihon-4",
+    "title": "霓虹·线索三",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《霓虹·线索三》",
+    "key": "nihon",
+    "sub_index": 4,
+    "database_index": 248
+  },
+  {
+    "id": "C06-xiaoka-1",
+    "title": "校卡",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《校卡》",
+    "key": "xiaoka",
+    "sub_index": 1,
+    "database_index": 249
+  },
+  {
+    "id": "C06-xuanchuandan-1",
+    "title": "《霓虹之声》宣传单",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《《霓虹之声》宣传单》",
+    "key": "xuanchuandan",
+    "sub_index": 1,
+    "database_index": 250
+  },
+  {
+    "id": "C06-shetuandaoshiminglu-1",
+    "title": "社团导师名录",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《社团导师名录》",
+    "key": "shetuandaoshiminglu",
+    "sub_index": 1,
+    "database_index": 251
+  },
+  {
+    "id": "C06-kechengbiao-1",
+    "title": "课程表",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《课程表》",
+    "key": "kechengbiao",
+    "sub_index": 1,
+    "database_index": 252
+  },
+  {
+    "id": "C06-Mnihongguanyu-1",
+    "title": "【影像】霓虹观雨",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《【影像】霓虹观雨》",
+    "key": "Mnihongguanyu",
+    "sub_index": 1,
+    "database_index": 253
+  },
+  {
+    "id": "C06-uraometeStage-5",
+    "title": "里表舞厅·线索四",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《里表舞厅·线索四》",
+    "key": "uraometeStage",
+    "sub_index": 5,
+    "database_index": 254
+  },
+  {
+    "id": "C06-baihuaschool-1",
+    "title": "百花教坊",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《百花教坊》",
+    "key": "baihuaschool",
+    "sub_index": 1,
+    "database_index": 255
+  },
+  {
+    "id": "C06-tangshen-1",
+    "title": "糖绳",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《糖绳》",
+    "key": "tangshen",
+    "sub_index": 1,
+    "database_index": 256
+  },
+  {
+    "id": "C06-tuqiu-1",
+    "title": "【影像】土丘",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《【影像】土丘》",
+    "key": "tuqiu",
+    "sub_index": 1,
+    "database_index": 257
+  },
+  {
+    "id": "C06-jinnang-2",
+    "title": "锦囊·线索一",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《锦囊·线索一》",
+    "key": "jinnang",
+    "sub_index": 2,
+    "database_index": 258
+  },
+  {
+    "id": "C06-PhigrOSjiu-1",
+    "title": "PhigrOS记录-鸠",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《PhigrOS记录-鸠》",
+    "key": "PhigrOSjiu",
+    "sub_index": 1,
+    "database_index": 259
+  },
+  {
+    "id": "C06-PhigrOSjiu-2",
+    "title": "PhigrOS记录-鸠·线索一",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《PhigrOS记录-鸠·线索一》",
+    "key": "PhigrOSjiu",
+    "sub_index": 2,
+    "database_index": 260
+  },
+  {
+    "id": "C06-PhigrOSgino-1",
+    "title": "PhigrOS记录-吉诺",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《PhigrOS记录-吉诺》",
+    "key": "PhigrOSgino",
+    "sub_index": 1,
+    "database_index": 261
+  },
+  {
+    "id": "C06-kenengxing-1",
+    "title": "可能性",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《可能性》",
+    "key": "kenengxing",
+    "sub_index": 1,
+    "database_index": 262
+  },
+  {
+    "id": "C06-dieyubi-3",
+    "title": "蝶羽笔·线索二",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《蝶羽笔·线索二》",
+    "key": "dieyubi",
+    "sub_index": 3,
+    "database_index": 263
+  },
+  {
+    "id": "C07-trophon-7",
+    "title": "两用摩托Trophon·线索六",
+    "chapter": "方舟蜃景",
+    "game_location": "收藏品 → 方舟蜃景 →《两用摩托Trophon·线索六》",
+    "key": "trophon",
+    "sub_index": 7,
+    "database_index": 264
+  },
+  {
+    "id": "C08-landstar67re-1",
+    "title": "路星67-改",
+    "chapter": "时钟链接",
+    "game_location": "收藏品 → 时钟链接 →《路星67-改》",
+    "key": "landstar67re",
+    "sub_index": 1,
+    "database_index": 265
+  },
+  {
+    "id": "C08-landstar67re-2",
+    "title": "路星67-改·线索一",
+    "chapter": "时钟链接",
+    "game_location": "收藏品 → 时钟链接 →《路星67-改·线索一》",
+    "key": "landstar67re",
+    "sub_index": 2,
+    "database_index": 266
+  },
+  {
+    "id": "C09-shijianbaima-1",
+    "title": "诗笺 白马",
+    "chapter": "凌日潮汐",
+    "game_location": "收藏品 → 凌日潮汐 →《诗笺 白马》",
+    "key": "shijianbaima",
+    "sub_index": 1,
+    "database_index": 267
+  },
+  {
+    "id": "C09-shijianjueze-1",
+    "title": "诗笺 抉择",
+    "chapter": "凌日潮汐",
+    "game_location": "收藏品 → 凌日潮汐 →《诗笺 抉择》",
+    "key": "shijianjueze",
+    "sub_index": 1,
+    "database_index": 268
+  },
+  {
+    "id": "C09-lvchuanbaomu-1",
+    "title": "破译·凌日潮汐",
+    "chapter": "凌日潮汐",
+    "game_location": "收藏品 → 凌日潮汐 →《破译·凌日潮汐》",
+    "key": "lvchuanbaomu",
+    "sub_index": 1,
+    "database_index": 269
+  },
+  {
+    "id": "C09-lvchuanbaomu-2",
+    "title": "破译·凌日潮汐·线索一",
+    "chapter": "凌日潮汐",
+    "game_location": "收藏品 → 凌日潮汐 →《破译·凌日潮汐·线索一》",
+    "key": "lvchuanbaomu",
+    "sub_index": 2,
+    "database_index": 270
+  },
+  {
+    "id": "C09-lvchuanbaomu-3",
+    "title": "破译·凌日潮汐·线索二",
+    "chapter": "凌日潮汐",
+    "game_location": "收藏品 → 凌日潮汐 →《破译·凌日潮汐·线索二》",
+    "key": "lvchuanbaomu",
+    "sub_index": 3,
+    "database_index": 271
+  },
+  {
+    "id": "C09-lvchuanbaomu-4",
+    "title": "破译·凌日潮汐·线索三",
+    "chapter": "凌日潮汐",
+    "game_location": "收藏品 → 凌日潮汐 →《破译·凌日潮汐·线索三》",
+    "key": "lvchuanbaomu",
+    "sub_index": 4,
+    "database_index": 272
+  },
+  {
+    "id": "C09-lvchuanbaomu-5",
+    "title": "破译·凌日潮汐·线索四",
+    "chapter": "凌日潮汐",
+    "game_location": "收藏品 → 凌日潮汐 →《破译·凌日潮汐·线索四》",
+    "key": "lvchuanbaomu",
+    "sub_index": 5,
+    "database_index": 273
+  },
+  {
+    "id": "C09-lvchuanbaomu-6",
+    "title": "破译·凌日潮汐·线索五",
+    "chapter": "凌日潮汐",
+    "game_location": "收藏品 → 凌日潮汐 →《破译·凌日潮汐·线索五》",
+    "key": "lvchuanbaomu",
+    "sub_index": 6,
+    "database_index": 274
+  },
+  {
+    "id": "C09-miaohui-1",
+    "title": "庙会",
+    "chapter": "凌日潮汐",
+    "game_location": "收藏品 → 凌日潮汐 →《庙会》",
+    "key": "miaohui",
+    "sub_index": 1,
+    "database_index": 275
+  },
+  {
+    "id": "C09-miaohui-2",
+    "title": "庙会·线索一",
+    "chapter": "凌日潮汐",
+    "game_location": "收藏品 → 凌日潮汐 →《庙会·线索一》",
+    "key": "miaohui",
+    "sub_index": 2,
+    "database_index": 276
+  },
+  {
+    "id": "C09-Mlingrichaoxi-1",
+    "title": "【影像】月面之海",
+    "chapter": "凌日潮汐",
+    "game_location": "收藏品 → 凌日潮汐 →《【影像】月面之海》",
+    "key": "Mlingrichaoxi",
+    "sub_index": 1,
+    "database_index": 277
+  },
+  {
+    "id": "C09-Yqiongding-1",
+    "title": "【录音】穹顶",
+    "chapter": "凌日潮汐",
+    "game_location": "收藏品 → 凌日潮汐 →《【录音】穹顶》",
+    "key": "Yqiongding",
+    "sub_index": 1,
+    "database_index": 278
+  },
+  {
+    "id": "C07-beansshipu-1",
+    "title": "豌豆食谱合集",
+    "chapter": "方舟蜃景",
+    "game_location": "收藏品 → 方舟蜃景 →《豌豆食谱合集》",
+    "key": "beansshipu",
+    "sub_index": 1,
+    "database_index": 279
+  },
+  {
+    "id": "C07-renwu-1",
+    "title": "公派任务",
+    "chapter": "方舟蜃景",
+    "game_location": "收藏品 → 方舟蜃景 →《公派任务》",
+    "key": "renwu",
+    "sub_index": 1,
+    "database_index": 280
+  },
+  {
+    "id": "C09-renwu-2",
+    "title": "公派任务·线索一",
+    "chapter": "凌日潮汐",
+    "game_location": "收藏品 → 凌日潮汐 →《公派任务·线索一》",
+    "key": "renwu",
+    "sub_index": 2,
+    "database_index": 281
+  },
+  {
+    "id": "C09-renwu-3",
+    "title": "公派任务·线索二",
+    "chapter": "凌日潮汐",
+    "game_location": "收藏品 → 凌日潮汐 →《公派任务·线索二》",
+    "key": "renwu",
+    "sub_index": 3,
+    "database_index": 282
+  },
+  {
+    "id": "C07-qiuzhishu-1",
+    "title": "求职书",
+    "chapter": "方舟蜃景",
+    "game_location": "收藏品 → 方舟蜃景 →《求职书》",
+    "key": "qiuzhishu",
+    "sub_index": 1,
+    "database_index": 283
+  },
+  {
+    "id": "C07-beanszhongzhi-1",
+    "title": "豌豆种植记录",
+    "chapter": "方舟蜃景",
+    "game_location": "收藏品 → 方舟蜃景 →《豌豆种植记录》",
+    "key": "beanszhongzhi",
+    "sub_index": 1,
+    "database_index": 284
+  },
+  {
+    "id": "C07-beanszhongzhi-2",
+    "title": "豌豆种植记录·线索一",
+    "chapter": "方舟蜃景",
+    "game_location": "收藏品 → 方舟蜃景 →《豌豆种植记录·线索一》",
+    "key": "beanszhongzhi",
+    "sub_index": 2,
+    "database_index": 285
+  },
+  {
+    "id": "C08-beanszhongzhi-3",
+    "title": "豌豆种植记录·线索二",
+    "chapter": "时钟链接",
+    "game_location": "收藏品 → 时钟链接 →《豌豆种植记录·线索二》",
+    "key": "beanszhongzhi",
+    "sub_index": 3,
+    "database_index": 286
+  },
+  {
+    "id": "C07-helpxin-1",
+    "title": "求救信",
+    "chapter": "方舟蜃景",
+    "game_location": "收藏品 → 方舟蜃景 →《求救信》",
+    "key": "helpxin",
+    "sub_index": 1,
+    "database_index": 287
+  },
+  {
+    "id": "C07-helpxin-2",
+    "title": "求救信·线索一",
+    "chapter": "方舟蜃景",
+    "game_location": "收藏品 → 方舟蜃景 →《求救信·线索一》",
+    "key": "helpxin",
+    "sub_index": 2,
+    "database_index": 288
+  },
+  {
+    "id": "C08-helpxin-3",
+    "title": "求救信·线索二",
+    "chapter": "时钟链接",
+    "game_location": "收藏品 → 时钟链接 →《求救信·线索二》",
+    "key": "helpxin",
+    "sub_index": 3,
+    "database_index": 289
+  },
+  {
+    "id": "C07-cronosgugu-1",
+    "title": "克洛诺斯的鸽子",
+    "chapter": "方舟蜃景",
+    "game_location": "收藏品 → 方舟蜃景 →《克洛诺斯的鸽子》",
+    "key": "cronosgugu",
+    "sub_index": 1,
+    "database_index": 290
+  },
+  {
+    "id": "C07-cronosgugu-2",
+    "title": "克洛诺斯的鸽子·线索一",
+    "chapter": "方舟蜃景",
+    "game_location": "收藏品 → 方舟蜃景 →《克洛诺斯的鸽子·线索一》",
+    "key": "cronosgugu",
+    "sub_index": 2,
+    "database_index": 291
+  },
+  {
+    "id": "C08-cronosgugu-3",
+    "title": "克洛诺斯的鸽子·线索二",
+    "chapter": "时钟链接",
+    "game_location": "收藏品 → 时钟链接 →《克洛诺斯的鸽子·线索二》",
+    "key": "cronosgugu",
+    "sub_index": 3,
+    "database_index": 292
+  },
+  {
+    "id": "C08-dougeng-1",
+    "title": "豆羹",
+    "chapter": "时钟链接",
+    "game_location": "收藏品 → 时钟链接 →《豆羹》",
+    "key": "dougeng",
+    "sub_index": 1,
+    "database_index": 293
+  },
+  {
+    "id": "C08-cizhishu-1",
+    "title": "辞职书",
+    "chapter": "时钟链接",
+    "game_location": "收藏品 → 时钟链接 →《辞职书》",
+    "key": "cizhishu",
+    "sub_index": 1,
+    "database_index": 294
+  },
+  {
+    "id": "C07-guanzhuang-1",
+    "title": "罐装雪梨膏",
+    "chapter": "方舟蜃景",
+    "game_location": "收藏品 → 方舟蜃景 →《罐装雪梨膏》",
+    "key": "guanzhuang",
+    "sub_index": 1,
+    "database_index": 295
+  },
+  {
+    "id": "C09-guanzhuang-2",
+    "title": "罐装雪梨膏·线索一",
+    "chapter": "凌日潮汐",
+    "game_location": "收藏品 → 凌日潮汐 →《罐装雪梨膏·线索一》",
+    "key": "guanzhuang",
+    "sub_index": 2,
+    "database_index": 296
+  },
+  {
+    "id": "C09-tihuandata-1",
+    "title": "替换数据",
+    "chapter": "凌日潮汐",
+    "game_location": "收藏品 → 凌日潮汐 →《替换数据》",
+    "key": "tihuandata",
+    "sub_index": 1,
+    "database_index": 297
+  },
+  {
+    "id": "C09-tihuandata-2",
+    "title": "替换数据·线索一",
+    "chapter": "凌日潮汐",
+    "game_location": "收藏品 → 凌日潮汐 →《替换数据·线索一》",
+    "key": "tihuandata",
+    "sub_index": 2,
+    "database_index": 298
+  },
+  {
+    "id": "C09-tihuandata-3",
+    "title": "替换数据·线索二",
+    "chapter": "凌日潮汐",
+    "game_location": "收藏品 → 凌日潮汐 →《替换数据·线索二》",
+    "key": "tihuandata",
+    "sub_index": 3,
+    "database_index": 299
+  },
+  {
+    "id": "C09-tihuandata-4",
+    "title": "替换数据·线索三",
+    "chapter": "凌日潮汐",
+    "game_location": "收藏品 → 凌日潮汐 →《替换数据·线索三》",
+    "key": "tihuandata",
+    "sub_index": 4,
+    "database_index": 300
+  },
+  {
+    "id": "C15-bassareusEgg-1",
+    "title": "破译·《极星卫》彩蛋",
+    "chapter": "极星卫",
+    "game_location": "收藏品 → 极星卫 →《破译·《极星卫》彩蛋》",
+    "key": "bassareusEgg",
+    "sub_index": 1,
+    "database_index": 301
+  },
+  {
+    "id": "C15-ReMobiusi-1",
+    "title": "莫比乌斯的回信",
+    "chapter": "极星卫",
+    "game_location": "收藏品 → 极星卫 →《莫比乌斯的回信》",
+    "key": "ReMobiusi",
+    "sub_index": 1,
+    "database_index": 302
+  },
+  {
+    "id": "C15-Bassareus0-1",
+    "title": "《极星卫》剧本·序",
+    "chapter": "极星卫",
+    "game_location": "收藏品 → 极星卫 →《《极星卫》剧本·序》",
+    "key": "Bassareus0",
+    "sub_index": 1,
+    "database_index": 303
+  },
+  {
+    "id": "C15-Bassareus1-1",
+    "title": "《极星卫》剧本·一",
+    "chapter": "极星卫",
+    "game_location": "收藏品 → 极星卫 →《《极星卫》剧本·一》",
+    "key": "Bassareus1",
+    "sub_index": 1,
+    "database_index": 304
+  },
+  {
+    "id": "C15-Bassareus2-1",
+    "title": "《极星卫》剧本·二",
+    "chapter": "极星卫",
+    "game_location": "收藏品 → 极星卫 →《《极星卫》剧本·二》",
+    "key": "Bassareus2",
+    "sub_index": 1,
+    "database_index": 305
+  },
+  {
+    "id": "C15-Bassareus3-1",
+    "title": "《极星卫》剧本·三",
+    "chapter": "极星卫",
+    "game_location": "收藏品 → 极星卫 →《《极星卫》剧本·三》",
+    "key": "Bassareus3",
+    "sub_index": 1,
+    "database_index": 306
+  },
+  {
+    "id": "C15-Bassareus4-1",
+    "title": "《极星卫》剧本·四",
+    "chapter": "极星卫",
+    "game_location": "收藏品 → 极星卫 →《《极星卫》剧本·四》",
+    "key": "Bassareus4",
+    "sub_index": 1,
+    "database_index": 307
+  },
+  {
+    "id": "C15-Bassareus5-1",
+    "title": "《极星卫》剧本·五",
+    "chapter": "极星卫",
+    "game_location": "收藏品 → 极星卫 →《《极星卫》剧本·五》",
+    "key": "Bassareus5",
+    "sub_index": 1,
+    "database_index": 308
+  },
+  {
+    "id": "C15-Bassareus6-1",
+    "title": "《极星卫》剧本·六",
+    "chapter": "极星卫",
+    "game_location": "收藏品 → 极星卫 →《《极星卫》剧本·六》",
+    "key": "Bassareus6",
+    "sub_index": 1,
+    "database_index": 309
+  },
+  {
+    "id": "C15-Bassareus7-1",
+    "title": "《极星卫》剧本·七",
+    "chapter": "极星卫",
+    "game_location": "收藏品 → 极星卫 →《《极星卫》剧本·七》",
+    "key": "Bassareus7",
+    "sub_index": 1,
+    "database_index": 310
+  },
+  {
+    "id": "C15-Bassareus8-1",
+    "title": "《极星卫》剧本·八",
+    "chapter": "极星卫",
+    "game_location": "收藏品 → 极星卫 →《《极星卫》剧本·八》",
+    "key": "Bassareus8",
+    "sub_index": 1,
+    "database_index": 311
+  },
+  {
+    "id": "C15-Bassareus9-1",
+    "title": "《极星卫》剧本·九",
+    "chapter": "极星卫",
+    "game_location": "收藏品 → 极星卫 →《《极星卫》剧本·九》",
+    "key": "Bassareus9",
+    "sub_index": 1,
+    "database_index": 312
+  },
+  {
+    "id": "C15-Bassareus10-1",
+    "title": "《极星卫》剧本·十",
+    "chapter": "极星卫",
+    "game_location": "收藏品 → 极星卫 →《《极星卫》剧本·十》",
+    "key": "Bassareus10",
+    "sub_index": 1,
+    "database_index": 313
+  },
+  {
+    "id": "C15-Bassareus11-1",
+    "title": "《极星卫》剧本·十一",
+    "chapter": "极星卫",
+    "game_location": "收藏品 → 极星卫 →《《极星卫》剧本·十一》",
+    "key": "Bassareus11",
+    "sub_index": 1,
+    "database_index": 314
+  },
+  {
+    "id": "C15-Bassareus12-1",
+    "title": "《极星卫》剧本·十二",
+    "chapter": "极星卫",
+    "game_location": "收藏品 → 极星卫 →《《极星卫》剧本·十二》",
+    "key": "Bassareus12",
+    "sub_index": 1,
+    "database_index": 315
+  },
+  {
+    "id": "C15-Bassareus13-1",
+    "title": "《极星卫》剧本·十三",
+    "chapter": "极星卫",
+    "game_location": "收藏品 → 极星卫 →《《极星卫》剧本·十三》",
+    "key": "Bassareus13",
+    "sub_index": 1,
+    "database_index": 316
+  },
+  {
+    "id": "C15-Bassareus14-1",
+    "title": "《极星卫》剧本·十四",
+    "chapter": "极星卫",
+    "game_location": "收藏品 → 极星卫 →《《极星卫》剧本·十四》",
+    "key": "Bassareus14",
+    "sub_index": 1,
+    "database_index": 317
+  },
+  {
+    "id": "C15-Bassareus15-1",
+    "title": "《极星卫》剧本·十五",
+    "chapter": "极星卫",
+    "game_location": "收藏品 → 极星卫 →《《极星卫》剧本·十五》",
+    "key": "Bassareus15",
+    "sub_index": 1,
+    "database_index": 318
+  },
+  {
+    "id": "C15-Bassareus16-1",
+    "title": "《极星卫》剧本·十六",
+    "chapter": "极星卫",
+    "game_location": "收藏品 → 极星卫 →《《极星卫》剧本·十六》",
+    "key": "Bassareus16",
+    "sub_index": 1,
+    "database_index": 319
+  },
+  {
+    "id": "C15-Bassareus17-1",
+    "title": "《极星卫》剧本·十七",
+    "chapter": "极星卫",
+    "game_location": "收藏品 → 极星卫 →《《极星卫》剧本·十七》",
+    "key": "Bassareus17",
+    "sub_index": 1,
+    "database_index": 320
+  },
+  {
+    "id": "C15-Bassareus18-1",
+    "title": "《极星卫》剧本·十八",
+    "chapter": "极星卫",
+    "game_location": "收藏品 → 极星卫 →《《极星卫》剧本·十八》",
+    "key": "Bassareus18",
+    "sub_index": 1,
+    "database_index": 321
+  },
+  {
+    "id": "C15-Bassareus19-1",
+    "title": "《极星卫》剧本·十九",
+    "chapter": "极星卫",
+    "game_location": "收藏品 → 极星卫 →《《极星卫》剧本·十九》",
+    "key": "Bassareus19",
+    "sub_index": 1,
+    "database_index": 322
+  },
+  {
+    "id": "C15-Bassareus20-1",
+    "title": "《极星卫》剧本·二十",
+    "chapter": "极星卫",
+    "game_location": "收藏品 → 极星卫 →《《极星卫》剧本·二十》",
+    "key": "Bassareus20",
+    "sub_index": 1,
+    "database_index": 323
+  },
+  {
+    "id": "C15-Bassareus21-1",
+    "title": "《极星卫》剧本·二十一",
+    "chapter": "极星卫",
+    "game_location": "收藏品 → 极星卫 →《《极星卫》剧本·二十一》",
+    "key": "Bassareus21",
+    "sub_index": 1,
+    "database_index": 324
+  },
+  {
+    "id": "C15-Bassareus22-1",
+    "title": "《极星卫》剧本·二十二",
+    "chapter": "极星卫",
+    "game_location": "收藏品 → 极星卫 →《《极星卫》剧本·二十二》",
+    "key": "Bassareus22",
+    "sub_index": 1,
+    "database_index": 325
+  },
+  {
+    "id": "C15-Bassareus23-1",
+    "title": "《极星卫》剧本·二十三",
+    "chapter": "极星卫",
+    "game_location": "收藏品 → 极星卫 →《《极星卫》剧本·二十三》",
+    "key": "Bassareus23",
+    "sub_index": 1,
+    "database_index": 326
+  },
+  {
+    "id": "C15-Bassareus24-1",
+    "title": "《极星卫》剧本·二十四",
+    "chapter": "极星卫",
+    "game_location": "收藏品 → 极星卫 →《《极星卫》剧本·二十四》",
+    "key": "Bassareus24",
+    "sub_index": 1,
+    "database_index": 327
+  },
+  {
+    "id": "C15-Bassareus25-1",
+    "title": "《极星卫》剧本·二十五",
+    "chapter": "极星卫",
+    "game_location": "收藏品 → 极星卫 →《《极星卫》剧本·二十五》",
+    "key": "Bassareus25",
+    "sub_index": 1,
+    "database_index": 328
+  },
+  {
+    "id": "C15-Bassareus26-1",
+    "title": "《极星卫》剧本·二十六",
+    "chapter": "极星卫",
+    "game_location": "收藏品 → 极星卫 →《《极星卫》剧本·二十六》",
+    "key": "Bassareus26",
+    "sub_index": 1,
+    "database_index": 329
+  },
+  {
+    "id": "C15-Bassareus27-1",
+    "title": "《极星卫》剧本·二十七",
+    "chapter": "极星卫",
+    "game_location": "收藏品 → 极星卫 →《《极星卫》剧本·二十七》",
+    "key": "Bassareus27",
+    "sub_index": 1,
+    "database_index": 330
+  },
+  {
+    "id": "C15-Bassareus28-1",
+    "title": "《极星卫》剧本·二十八",
+    "chapter": "极星卫",
+    "game_location": "收藏品 → 极星卫 →《《极星卫》剧本·二十八》",
+    "key": "Bassareus28",
+    "sub_index": 1,
+    "database_index": 331
+  },
+  {
+    "id": "C15-Bassareus29-1",
+    "title": "《极星卫》剧本·二十九",
+    "chapter": "极星卫",
+    "game_location": "收藏品 → 极星卫 →《《极星卫》剧本·二十九》",
+    "key": "Bassareus29",
+    "sub_index": 1,
+    "database_index": 332
+  },
+  {
+    "id": "C15-Bassareus30-1",
+    "title": "《极星卫》剧本·三十",
+    "chapter": "极星卫",
+    "game_location": "收藏品 → 极星卫 →《《极星卫》剧本·三十》",
+    "key": "Bassareus30",
+    "sub_index": 1,
+    "database_index": 333
+  },
+  {
+    "id": "C15-Bassareus31-1",
+    "title": "《极星卫》剧本·三十一",
+    "chapter": "极星卫",
+    "game_location": "收藏品 → 极星卫 →《《极星卫》剧本·三十一》",
+    "key": "Bassareus31",
+    "sub_index": 1,
+    "database_index": 334
+  },
+  {
+    "id": "C15-Bassareus32-1",
+    "title": "《极星卫》剧本·三十二",
+    "chapter": "极星卫",
+    "game_location": "收藏品 → 极星卫 →《《极星卫》剧本·三十二》",
+    "key": "Bassareus32",
+    "sub_index": 1,
+    "database_index": 335
+  },
+  {
+    "id": "C15-Bassareus33-1",
+    "title": "《极星卫》剧本·三十三",
+    "chapter": "极星卫",
+    "game_location": "收藏品 → 极星卫 →《《极星卫》剧本·三十三》",
+    "key": "Bassareus33",
+    "sub_index": 1,
+    "database_index": 336
+  },
+  {
+    "id": "C15-Bassareus34-1",
+    "title": "《极星卫》剧本·三十四",
+    "chapter": "极星卫",
+    "game_location": "收藏品 → 极星卫 →《《极星卫》剧本·三十四》",
+    "key": "Bassareus34",
+    "sub_index": 1,
+    "database_index": 337
+  },
+  {
+    "id": "C01-roteano1-1",
+    "title": "摘录·莫比乌斯工作室日志·一",
+    "chapter": "额外章节",
+    "game_location": "收藏品 → 额外章节 →《摘录·莫比乌斯工作室日志·一》",
+    "key": "roteano1",
+    "sub_index": 1,
+    "database_index": 338
+  },
+  {
+    "id": "C01-rotaeno2-1",
+    "title": "摘录·莫比乌斯工作室日志·二",
+    "chapter": "额外章节",
+    "game_location": "收藏品 → 额外章节 →《摘录·莫比乌斯工作室日志·二》",
+    "key": "rotaeno2",
+    "sub_index": 1,
+    "database_index": 339
+  },
+  {
+    "id": "C01-rotaeno3-1",
+    "title": "摘录·莫比乌斯工作室日志·三",
+    "chapter": "额外章节",
+    "game_location": "收藏品 → 额外章节 →《摘录·莫比乌斯工作室日志·三》",
+    "key": "rotaeno3",
+    "sub_index": 1,
+    "database_index": 340
+  },
+  {
+    "id": "C01-rotaeno4-1",
+    "title": "隼的行船记录仪·一",
+    "chapter": "额外章节",
+    "game_location": "收藏品 → 额外章节 →《隼的行船记录仪·一》",
+    "key": "rotaeno4",
+    "sub_index": 1,
+    "database_index": 341
+  },
+  {
+    "id": "C01-rotaeno5-1",
+    "title": "隼的行船记录仪·二",
+    "chapter": "额外章节",
+    "game_location": "收藏品 → 额外章节 →《隼的行船记录仪·二》",
+    "key": "rotaeno5",
+    "sub_index": 1,
+    "database_index": 342
+  },
+  {
+    "id": "C01-rotaeno6-1",
+    "title": "隼的行船记录仪·三",
+    "chapter": "额外章节",
+    "game_location": "收藏品 → 额外章节 →《隼的行船记录仪·三》",
+    "key": "rotaeno6",
+    "sub_index": 1,
+    "database_index": 343
+  },
+  {
+    "id": "C12-zhixian20-1",
+    "title": "旁白：造主",
+    "chapter": "弭刻日",
+    "game_location": "收藏品 → 弭刻日 →《旁白：造主》",
+    "key": "zhixian20",
+    "sub_index": 1,
+    "database_index": 344
+  },
+  {
+    "id": "C12-zhixian21-1",
+    "title": "旁白：心魔",
+    "chapter": "弭刻日",
+    "game_location": "收藏品 → 弭刻日 →《旁白：心魔》",
+    "key": "zhixian21",
+    "sub_index": 1,
+    "database_index": 345
+  },
+  {
+    "id": "C12-zhixian22-1",
+    "title": "旁白：未来",
+    "chapter": "弭刻日",
+    "game_location": "收藏品 → 弭刻日 →《旁白：未来》",
+    "key": "zhixian22",
+    "sub_index": 1,
+    "database_index": 346
+  },
+  {
+    "id": "C12-zhixian24-1",
+    "title": "旁白：黎明",
+    "chapter": "弭刻日",
+    "game_location": "收藏品 → 弭刻日 →《旁白：黎明》",
+    "key": "zhixian24",
+    "sub_index": 1,
+    "database_index": 347
+  },
+  {
+    "id": "C12-jiezuodedansheng-1",
+    "title": "评《杰作的诞生》",
+    "chapter": "弭刻日",
+    "game_location": "收藏品 → 弭刻日 →《评《杰作的诞生》》",
+    "key": "jiezuodedansheng",
+    "sub_index": 1,
+    "database_index": 348
+  },
+  {
+    "id": "C12-Mshiguangdefx-1",
+    "title": "【影像】时光的废墟",
+    "chapter": "弭刻日",
+    "game_location": "收藏品 → 弭刻日 →《【影像】时光的废墟》",
+    "key": "Mshiguangdefx",
+    "sub_index": 1,
+    "database_index": 349
+  },
+  {
+    "id": "C12-Mhana-1",
+    "title": "【影像】哈娜",
+    "chapter": "弭刻日",
+    "game_location": "收藏品 → 弭刻日 →《【影像】哈娜》",
+    "key": "Mhana",
+    "sub_index": 1,
+    "database_index": 350
+  },
+  {
+    "id": "C12-xintudoudeyongsheng-1",
+    "title": "致信：土星系统无法注册与故障问题",
+    "chapter": "弭刻日",
+    "game_location": "收藏品 → 弭刻日 →《致信：土星系统无法注册与故障问题》",
+    "key": "xintudoudeyongsheng",
+    "sub_index": 1,
+    "database_index": 351
+  },
+  {
+    "id": "C12-Ychuanjiangwa-1",
+    "title": "【录音】船桨",
+    "chapter": "弭刻日",
+    "game_location": "收藏品 → 弭刻日 →《【录音】船桨》",
+    "key": "Ychuanjiangwa",
+    "sub_index": 1,
+    "database_index": 352
+  },
+  {
+    "id": "C12-Ychuanjiangwa-2",
+    "title": "【录音】船桨·线索一",
+    "chapter": "弭刻日",
+    "game_location": "收藏品 → 弭刻日 →《【录音】船桨·线索一》",
+    "key": "Ychuanjiangwa",
+    "sub_index": 2,
+    "database_index": 353
+  },
+  {
+    "id": "C12-Ychuanjiangwa-3",
+    "title": "【录音】船桨·线索二",
+    "chapter": "弭刻日",
+    "game_location": "收藏品 → 弭刻日 →《【录音】船桨·线索二》",
+    "key": "Ychuanjiangwa",
+    "sub_index": 3,
+    "database_index": 354
+  },
+  {
+    "id": "C12-liuqidashengli-1",
+    "title": "PhigrOS记录：路星67大胜利（￣︶￣）↗",
+    "chapter": "弭刻日",
+    "game_location": "收藏品 → 弭刻日 →《PhigrOS记录：路星67大胜利（￣︶￣）↗》",
+    "key": "liuqidashengli",
+    "sub_index": 1,
+    "database_index": 355
+  },
+  {
+    "id": "C12-liuqidashengli-2",
+    "title": "PhigrOS记录：路星67大胜利（￣︶￣）↗·线索一",
+    "chapter": "弭刻日",
+    "game_location": "收藏品 → 弭刻日 →《PhigrOS记录：路星67大胜利（￣︶￣）↗·线索一》",
+    "key": "liuqidashengli",
+    "sub_index": 2,
+    "database_index": 356
+  },
+  {
+    "id": "C12-liuqidashengli-3",
+    "title": "PhigrOS记录：路星67大胜利（￣︶￣）↗·线索二",
+    "chapter": "弭刻日",
+    "game_location": "收藏品 → 弭刻日 →《PhigrOS记录：路星67大胜利（￣︶￣）↗·线索二》",
+    "key": "liuqidashengli",
+    "sub_index": 3,
+    "database_index": 357
+  },
+  {
+    "id": "C12-liuqidashengli-4",
+    "title": "PhigrOS记录：路星67大胜利（￣︶￣）↗·线索三",
+    "chapter": "弭刻日",
+    "game_location": "收藏品 → 弭刻日 →《PhigrOS记录：路星67大胜利（￣︶￣）↗·线索三》",
+    "key": "liuqidashengli",
+    "sub_index": 4,
+    "database_index": 358
+  },
+  {
+    "id": "C12-liuqidashengli-5",
+    "title": "PhigrOS记录：路星67大胜利（￣︶￣）↗·线索四",
+    "chapter": "弭刻日",
+    "game_location": "收藏品 → 弭刻日 →《PhigrOS记录：路星67大胜利（￣︶￣）↗·线索四》",
+    "key": "liuqidashengli",
+    "sub_index": 5,
+    "database_index": 359
+  },
+  {
+    "id": "C07-NeonLED-1",
+    "title": "霓虹灯牌",
+    "chapter": "方舟蜃景",
+    "game_location": "收藏品 → 方舟蜃景 →《霓虹灯牌》",
+    "key": "NeonLED",
+    "sub_index": 1,
+    "database_index": 360
+  },
+  {
+    "id": "C07-NeonLED-2",
+    "title": "霓虹灯牌·线索一",
+    "chapter": "方舟蜃景",
+    "game_location": "收藏品 → 方舟蜃景 →《霓虹灯牌·线索一》",
+    "key": "NeonLED",
+    "sub_index": 2,
+    "database_index": 361
+  },
+  {
+    "id": "C06-xiusiyangjiaochui-1",
+    "title": "锈色羊角锤",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《锈色羊角锤》",
+    "key": "xiusiyangjiaochui",
+    "sub_index": 1,
+    "database_index": 362
+  },
+  {
+    "id": "C06-xiusiyangjiaochui-2",
+    "title": "锈色羊角锤·线索一",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《锈色羊角锤·线索一》",
+    "key": "xiusiyangjiaochui",
+    "sub_index": 2,
+    "database_index": 363
+  },
+  {
+    "id": "C06-xiusiyangjiaochui-3",
+    "title": "锈色羊角锤·线索二",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《锈色羊角锤·线索二》",
+    "key": "xiusiyangjiaochui",
+    "sub_index": 3,
+    "database_index": 364
+  },
+  {
+    "id": "C06-xiusiyangjiaochui-4",
+    "title": "锈色羊角锤·线索三",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《锈色羊角锤·线索三》",
+    "key": "xiusiyangjiaochui",
+    "sub_index": 4,
+    "database_index": 365
+  },
+  {
+    "id": "C13-thiefmoon-1",
+    "title": "《盗月行》调查报告",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《《盗月行》调查报告》",
+    "key": "thiefmoon",
+    "sub_index": 1,
+    "database_index": 366
+  },
+  {
+    "id": "C13-zhixian31-1",
+    "title": "旁白：流言",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《旁白：流言》",
+    "key": "zhixian31",
+    "sub_index": 1,
+    "database_index": 367
+  },
+  {
+    "id": "C13-zhixian33-1",
+    "title": "旁白：怪盗",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《旁白：怪盗》",
+    "key": "zhixian33",
+    "sub_index": 1,
+    "database_index": 368
+  },
+  {
+    "id": "C13-zhixian32-1",
+    "title": "旁白：恍惚",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《旁白：恍惚》",
+    "key": "zhixian32",
+    "sub_index": 1,
+    "database_index": 369
+  },
+  {
+    "id": "C13-zhixian30-1",
+    "title": "旁白：黑月",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《旁白：黑月》",
+    "key": "zhixian30",
+    "sub_index": 1,
+    "database_index": 370
+  },
+  {
+    "id": "C13-zhixian34-1",
+    "title": "旁白: From 1 to 500000",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《旁白: From 1 to 500000》",
+    "key": "zhixian34",
+    "sub_index": 1,
+    "database_index": 371
+  },
+  {
+    "id": "C13-huanmeng1-1",
+    "title": "幻梦 之一",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《幻梦 之一》",
+    "key": "huanmeng1",
+    "sub_index": 1,
+    "database_index": 372
+  },
+  {
+    "id": "C13-huanmeng2-1",
+    "title": "幻梦 之二",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《幻梦 之二》",
+    "key": "huanmeng2",
+    "sub_index": 1,
+    "database_index": 373
+  },
+  {
+    "id": "C13-673shijian-1",
+    "title": "673：律动星盗乐行事件 亚空间副本",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《673：律动星盗乐行事件 亚空间副本》",
+    "key": "673shijian",
+    "sub_index": 1,
+    "database_index": 374
+  },
+  {
+    "id": "C13-674shijian-2",
+    "title": "673：律动星盗乐行事件 亚空间副本·线索一",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《673：律动星盗乐行事件 亚空间副本·线索一》",
+    "key": "674shijian",
+    "sub_index": 2,
+    "database_index": 375
+  },
+  {
+    "id": "C13-675shijian-3",
+    "title": "673：律动星盗乐行事件 亚空间副本·线索二",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《673：律动星盗乐行事件 亚空间副本·线索二》",
+    "key": "675shijian",
+    "sub_index": 3,
+    "database_index": 376
+  },
+  {
+    "id": "C13-baoyouyueliang-1",
+    "title": "报道：《相机里的真假月亮》",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《报道：《相机里的真假月亮》》",
+    "key": "baoyouyueliang",
+    "sub_index": 1,
+    "database_index": 377
+  },
+  {
+    "id": "C13-xuanlvshisha-1",
+    "title": "散文：《有关旋律的哲思》",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《散文：《有关旋律的哲思》》",
+    "key": "xuanlvshisha",
+    "sub_index": 1,
+    "database_index": 378
+  },
+  {
+    "id": "C13-nvhaibieditou-1",
+    "title": "报道：《晒月亮的女孩》",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《报道：《晒月亮的女孩》》",
+    "key": "nvhaibieditou",
+    "sub_index": 1,
+    "database_index": 379
+  },
+  {
+    "id": "C13-Mbolisidexisheng-1",
+    "title": "【影像】拍摄者采访记录存档",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《【影像】拍摄者采访记录存档》",
+    "key": "Mbolisidexisheng",
+    "sub_index": 1,
+    "database_index": 380
+  },
+  {
+    "id": "C13-bayinhe-1",
+    "title": "木质八音盒",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《木质八音盒》",
+    "key": "bayinhe",
+    "sub_index": 1,
+    "database_index": 381
+  },
+  {
+    "id": "C13-Mdyjilumeihao-1",
+    "title": "【影像】直播录屏",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《【影像】直播录屏》",
+    "key": "Mdyjilumeihao",
+    "sub_index": 1,
+    "database_index": 382
+  },
+  {
+    "id": "C13-Mdyjilumeihao-2",
+    "title": "【影像】直播录屏·线索一",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《【影像】直播录屏·线索一》",
+    "key": "Mdyjilumeihao",
+    "sub_index": 2,
+    "database_index": 383
+  },
+  {
+    "id": "C13-pantaaa-1",
+    "title": "文玩核桃",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《文玩核桃》",
+    "key": "pantaaa",
+    "sub_index": 1,
+    "database_index": 384
+  },
+  {
+    "id": "C13-he372bafei-1",
+    "title": "吉克·莱斯波斯-Year372",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《吉克·莱斯波斯-Year372》",
+    "key": "he372bafei",
+    "sub_index": 1,
+    "database_index": 385
+  },
+  {
+    "id": "C13-buxutan-1",
+    "title": "报道：《酒吧辩手，市长想谈谈》",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《报道：《酒吧辩手，市长想谈谈》》",
+    "key": "buxutan",
+    "sub_index": 1,
+    "database_index": 386
+  },
+  {
+    "id": "C13-buxutan-2",
+    "title": "报道：《酒吧辩手，市长想谈谈》·线索一",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《报道：《酒吧辩手，市长想谈谈》·线索一》",
+    "key": "buxutan",
+    "sub_index": 2,
+    "database_index": 387
+  },
+  {
+    "id": "C13-buxutan-3",
+    "title": "报道：《酒吧辩手，市长想谈谈》·线索二",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《报道：《酒吧辩手，市长想谈谈》·线索二》",
+    "key": "buxutan",
+    "sub_index": 3,
+    "database_index": 388
+  },
+  {
+    "id": "C13-fuqinkuaishuiba-1",
+    "title": "小说：《困在街道中的老人》",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《小说：《困在街道中的老人》》",
+    "key": "fuqinkuaishuiba",
+    "sub_index": 1,
+    "database_index": 389
+  },
+  {
+    "id": "C13-nifaxianlgesha-1",
+    "title": "帖子：《天桥东！发现天狗！》",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《帖子：《天桥东！发现天狗！》》",
+    "key": "nifaxianlgesha",
+    "sub_index": 1,
+    "database_index": 390
+  },
+  {
+    "id": "C13-Mluolikong-1",
+    "title": "【影像】街头的Fuli",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《【影像】街头的Fuli》",
+    "key": "Mluolikong",
+    "sub_index": 1,
+    "database_index": 391
+  },
+  {
+    "id": "C13-Efuliautoshooter-5",
+    "title": "摘录·守护日志·机关枪·线索四",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《摘录·守护日志·机关枪·线索四》",
+    "key": "Efuliautoshooter",
+    "sub_index": 5,
+    "database_index": 392
+  },
+  {
+    "id": "C13-liangzitbzz-1",
+    "title": "量子同步终端",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《量子同步终端》",
+    "key": "liangzitbzz",
+    "sub_index": 1,
+    "database_index": 393
+  },
+  {
+    "id": "C13-liangzitbzz-2",
+    "title": "量子同步终端·线索一",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《量子同步终端·线索一》",
+    "key": "liangzitbzz",
+    "sub_index": 2,
+    "database_index": 394
+  },
+  {
+    "id": "C13-liangzitbzz-3",
+    "title": "量子同步终端·线索二",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《量子同步终端·线索二》",
+    "key": "liangzitbzz",
+    "sub_index": 3,
+    "database_index": 395
+  },
+  {
+    "id": "C13-liangzitbzz-4",
+    "title": "量子同步终端·线索三",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《量子同步终端·线索三》",
+    "key": "liangzitbzz",
+    "sub_index": 4,
+    "database_index": 396
+  },
+  {
+    "id": "C13-liangzitbzz-5",
+    "title": "量子同步终端·线索四",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《量子同步终端·线索四》",
+    "key": "liangzitbzz",
+    "sub_index": 5,
+    "database_index": 397
+  },
+  {
+    "id": "C13-miaomiaocha-1",
+    "title": "喵喵茶",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《喵喵茶》",
+    "key": "miaomiaocha",
+    "sub_index": 1,
+    "database_index": 398
+  },
+  {
+    "id": "C13-heiyueliaoyangyuan-1",
+    "title": "黑月疗养院员工需知",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《黑月疗养院员工需知》",
+    "key": "heiyueliaoyangyuan",
+    "sub_index": 1,
+    "database_index": 399
+  },
+  {
+    "id": "C13-heiyueliaoyangyuan-2",
+    "title": "黑月疗养院员工需知·线索一",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《黑月疗养院员工需知·线索一》",
+    "key": "heiyueliaoyangyuan",
+    "sub_index": 2,
+    "database_index": 400
+  },
+  {
+    "id": "C13-heiyueliaoyangyuan-3",
+    "title": "黑月疗养院员工需知·线索二",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《黑月疗养院员工需知·线索二》",
+    "key": "heiyueliaoyangyuan",
+    "sub_index": 3,
+    "database_index": 401
+  },
+  {
+    "id": "C13-beardoll-1",
+    "title": "小熊娃娃",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《小熊娃娃》",
+    "key": "beardoll",
+    "sub_index": 1,
+    "database_index": 402
+  },
+  {
+    "id": "C13-beardoll-2",
+    "title": "小熊娃娃·线索一",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《小熊娃娃·线索一》",
+    "key": "beardoll",
+    "sub_index": 2,
+    "database_index": 403
+  },
+  {
+    "id": "C13-beardoll-3",
+    "title": "小熊娃娃·线索二",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《小熊娃娃·线索二》",
+    "key": "beardoll",
+    "sub_index": 3,
+    "database_index": 404
+  },
+  {
+    "id": "C13-beardoll-4",
+    "title": "小熊娃娃·线索三",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《小熊娃娃·线索三》",
+    "key": "beardoll",
+    "sub_index": 4,
+    "database_index": 405
+  },
+  {
+    "id": "C13-beardoll-5",
+    "title": "小熊娃娃·线索四",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《小熊娃娃·线索四》",
+    "key": "beardoll",
+    "sub_index": 5,
+    "database_index": 406
+  },
+  {
+    "id": "C13-lokiworld-1",
+    "title": "影像带：《洛基的世界》",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《影像带：《洛基的世界》》",
+    "key": "lokiworld",
+    "sub_index": 1,
+    "database_index": 407
+  },
+  {
+    "id": "C13-lokiworld-2",
+    "title": "影像带：《洛基的世界》·线索一",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《影像带：《洛基的世界》·线索一》",
+    "key": "lokiworld",
+    "sub_index": 2,
+    "database_index": 408
+  },
+  {
+    "id": "C13-lokiworld-3",
+    "title": "影像带：《洛基的世界》·线索二",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《影像带：《洛基的世界》·线索二》",
+    "key": "lokiworld",
+    "sub_index": 3,
+    "database_index": 409
+  },
+  {
+    "id": "C13-lokiworld-4",
+    "title": "影像带：《洛基的世界》·线索三",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《影像带：《洛基的世界》·线索三》",
+    "key": "lokiworld",
+    "sub_index": 4,
+    "database_index": 410
+  },
+  {
+    "id": "C13-lokiworld-5",
+    "title": "影像带：《洛基的世界》·线索四",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《影像带：《洛基的世界》·线索四》",
+    "key": "lokiworld",
+    "sub_index": 5,
+    "database_index": 411
+  },
+  {
+    "id": "C13-lokiworldre-1",
+    "title": "报道：《洛基的世界影评》",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《报道：《洛基的世界影评》》",
+    "key": "lokiworldre",
+    "sub_index": 1,
+    "database_index": 412
+  },
+  {
+    "id": "C13-abaaba1-1",
+    "title": "【影像】日蚀之月",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《【影像】日蚀之月》",
+    "key": "abaaba1",
+    "sub_index": 1,
+    "database_index": 413
+  },
+  {
+    "id": "C13-botiqieli-1",
+    "title": "波提切利原型机",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《波提切利原型机》",
+    "key": "botiqieli",
+    "sub_index": 1,
+    "database_index": 414
+  },
+  {
+    "id": "C13-botiqieli-2",
+    "title": "波提切利原型机·线索一",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《波提切利原型机·线索一》",
+    "key": "botiqieli",
+    "sub_index": 2,
+    "database_index": 415
+  },
+  {
+    "id": "C13-botiqieli-3",
+    "title": "波提切利原型机·线索二",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《波提切利原型机·线索二》",
+    "key": "botiqieli",
+    "sub_index": 3,
+    "database_index": 416
+  },
+  {
+    "id": "C13-botiqieli-4",
+    "title": "波提切利原型机·线索三",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《波提切利原型机·线索三》",
+    "key": "botiqieli",
+    "sub_index": 4,
+    "database_index": 417
+  },
+  {
+    "id": "C01-paradigm1-1",
+    "title": "观察记录：雪",
+    "chapter": "额外章节",
+    "game_location": "收藏品 → 额外章节 →《观察记录：雪》",
+    "key": "paradigm1",
+    "sub_index": 1,
+    "database_index": 418
+  },
+  {
+    "id": "C01-paradigm2-1",
+    "title": "观察记录：像",
+    "chapter": "额外章节",
+    "game_location": "收藏品 → 额外章节 →《观察记录：像》",
+    "key": "paradigm2",
+    "sub_index": 1,
+    "database_index": 419
+  },
+  {
+    "id": "C01-paradigm3-1",
+    "title": "观察记录：友",
+    "chapter": "额外章节",
+    "game_location": "收藏品 → 额外章节 →《观察记录：友》",
+    "key": "paradigm3",
+    "sub_index": 1,
+    "database_index": 420
+  },
+  {
+    "id": "C01-paradigm4-1",
+    "title": "观察记录：痕",
+    "chapter": "额外章节",
+    "game_location": "收藏品 → 额外章节 →《观察记录：痕》",
+    "key": "paradigm4",
+    "sub_index": 1,
+    "database_index": 421
+  },
+  {
+    "id": "C14-investigatewuxiang-1",
+    "title": "档案·无相乡调查报告",
+    "chapter": "无相乡",
+    "game_location": "收藏品 → 无相乡 →《档案·无相乡调查报告》",
+    "key": "investigatewuxiang",
+    "sub_index": 1,
+    "database_index": 422
+  },
+  {
+    "id": "C06-jiejiwarofrainbow-4",
+    "title": "街机游戏《彩虹之战》·线索三",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《街机游戏《彩虹之战》·线索三》",
+    "key": "jiejiwarofrainbow",
+    "sub_index": 4,
+    "database_index": 423
+  },
+  {
+    "id": "C06-jiejiwarofrainbow-5",
+    "title": "街机游戏《彩虹之战》·线索四",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《街机游戏《彩虹之战》·线索四》",
+    "key": "jiejiwarofrainbow",
+    "sub_index": 5,
+    "database_index": 424
+  },
+  {
+    "id": "C06-jiejiwarofrainbow-6",
+    "title": "街机游戏《彩虹之战》·线索五",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《街机游戏《彩虹之战》·线索五》",
+    "key": "jiejiwarofrainbow",
+    "sub_index": 6,
+    "database_index": 425
+  },
+  {
+    "id": "C06-rainbowawakening-1",
+    "title": "事件·虹再现",
+    "chapter": "霓虹灯牌",
+    "game_location": "收藏品 → 霓虹灯牌 →《事件·虹再现》",
+    "key": "rainbowawakening",
+    "sub_index": 1,
+    "database_index": 426
+  },
+  {
+    "id": "C07-testimonial-1",
+    "title": "布兰达的感谢信",
+    "chapter": "方舟蜃景",
+    "game_location": "收藏品 → 方舟蜃景 →《布兰达的感谢信》",
+    "key": "testimonial",
+    "sub_index": 1,
+    "database_index": 427
+  },
+  {
+    "id": "C07-testimonial-2",
+    "title": "布兰达的感谢信·线索一",
+    "chapter": "方舟蜃景",
+    "game_location": "收藏品 → 方舟蜃景 →《布兰达的感谢信·线索一》",
+    "key": "testimonial",
+    "sub_index": 2,
+    "database_index": 428
+  },
+  {
+    "id": "C07-testimonial-3",
+    "title": "布兰达的感谢信·线索二",
+    "chapter": "方舟蜃景",
+    "game_location": "收藏品 → 方舟蜃景 →《布兰达的感谢信·线索二》",
+    "key": "testimonial",
+    "sub_index": 3,
+    "database_index": 429
+  },
+  {
+    "id": "C07-testimonial-4",
+    "title": "布兰达的感谢信·线索三",
+    "chapter": "方舟蜃景",
+    "game_location": "收藏品 → 方舟蜃景 →《布兰达的感谢信·线索三》",
+    "key": "testimonial",
+    "sub_index": 4,
+    "database_index": 430
+  },
+  {
+    "id": "C07-canvas-1",
+    "title": "油画",
+    "chapter": "方舟蜃景",
+    "game_location": "收藏品 → 方舟蜃景 →《油画》",
+    "key": "canvas",
+    "sub_index": 1,
+    "database_index": 431
+  },
+  {
+    "id": "C07-doorplate-1",
+    "title": "失效门牌",
+    "chapter": "方舟蜃景",
+    "game_location": "收藏品 → 方舟蜃景 →《失效门牌》",
+    "key": "doorplate",
+    "sub_index": 1,
+    "database_index": 432
+  },
+  {
+    "id": "C07-doorplate-2",
+    "title": "失效门牌·线索一",
+    "chapter": "方舟蜃景",
+    "game_location": "收藏品 → 方舟蜃景 →《失效门牌·线索一》",
+    "key": "doorplate",
+    "sub_index": 2,
+    "database_index": 433
+  },
+  {
+    "id": "C07-doorplate-3",
+    "title": "失效门牌·线索二",
+    "chapter": "方舟蜃景",
+    "game_location": "收藏品 → 方舟蜃景 →《失效门牌·线索二》",
+    "key": "doorplate",
+    "sub_index": 3,
+    "database_index": 434
+  },
+  {
+    "id": "C13-earphone-1",
+    "title": "隔音耳机",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《隔音耳机》",
+    "key": "earphone",
+    "sub_index": 1,
+    "database_index": 435
+  },
+  {
+    "id": "C13-earphone-2",
+    "title": "隔音耳机·线索一",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《隔音耳机·线索一》",
+    "key": "earphone",
+    "sub_index": 2,
+    "database_index": 436
+  },
+  {
+    "id": "C13-earphone-3",
+    "title": "隔音耳机·线索二",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《隔音耳机·线索二》",
+    "key": "earphone",
+    "sub_index": 3,
+    "database_index": 437
+  },
+  {
+    "id": "C13-earphone-4",
+    "title": "隔音耳机·线索三",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《隔音耳机·线索三》",
+    "key": "earphone",
+    "sub_index": 4,
+    "database_index": 438
+  },
+  {
+    "id": "C13-earphone-5",
+    "title": "隔音耳机·线索四",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《隔音耳机·线索四》",
+    "key": "earphone",
+    "sub_index": 5,
+    "database_index": 439
+  },
+  {
+    "id": "C13-heiyuelog-1",
+    "title": "黑月疗养院日志",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《黑月疗养院日志》",
+    "key": "heiyuelog",
+    "sub_index": 1,
+    "database_index": 440
+  },
+  {
+    "id": "C13-heiyuelog-2",
+    "title": "黑月疗养院日志·线索一",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《黑月疗养院日志·线索一》",
+    "key": "heiyuelog",
+    "sub_index": 2,
+    "database_index": 441
+  },
+  {
+    "id": "C13-heiyuelog-3",
+    "title": "黑月疗养院日志·线索二",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《黑月疗养院日志·线索二》",
+    "key": "heiyuelog",
+    "sub_index": 3,
+    "database_index": 442
+  },
+  {
+    "id": "C13-heiyuelog-4",
+    "title": "黑月疗养院日志·线索三",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《黑月疗养院日志·线索三》",
+    "key": "heiyuelog",
+    "sub_index": 4,
+    "database_index": 443
+  },
+  {
+    "id": "C13-heiyuelog-5",
+    "title": "黑月疗养院日志·线索四",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《黑月疗养院日志·线索四》",
+    "key": "heiyuelog",
+    "sub_index": 5,
+    "database_index": 444
+  },
+  {
+    "id": "C13-jixiegloves-1",
+    "title": "机械手套",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《机械手套》",
+    "key": "jixiegloves",
+    "sub_index": 1,
+    "database_index": 445
+  },
+  {
+    "id": "C13-jixiegloves-2",
+    "title": "机械手套·线索一",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《机械手套·线索一》",
+    "key": "jixiegloves",
+    "sub_index": 2,
+    "database_index": 446
+  },
+  {
+    "id": "C13-jixiegloves-3",
+    "title": "机械手套·线索二",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《机械手套·线索二》",
+    "key": "jixiegloves",
+    "sub_index": 3,
+    "database_index": 447
+  },
+  {
+    "id": "C13-jixiegloves-4",
+    "title": "机械手套·线索三",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《机械手套·线索三》",
+    "key": "jixiegloves",
+    "sub_index": 4,
+    "database_index": 448
+  },
+  {
+    "id": "C13-jixiegloves-5",
+    "title": "机械手套·线索四",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《机械手套·线索四》",
+    "key": "jixiegloves",
+    "sub_index": 5,
+    "database_index": 449
+  },
+  {
+    "id": "C13-jiankongwang-1",
+    "title": "报道：《律动星城市监控网现已恢复，失灵原因疑似与月食有关》",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《报道：《律动星城市监控网现已恢复，失灵原因疑似与月食有关》》",
+    "key": "jiankongwang",
+    "sub_index": 1,
+    "database_index": 450
+  },
+  {
+    "id": "C13-fanpanzhuzai-1",
+    "title": "报道：《对大众心理学研究的反叛：当他人主宰你的存在》",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《报道：《对大众心理学研究的反叛：当他人主宰你的存在》》",
+    "key": "fanpanzhuzai",
+    "sub_index": 1,
+    "database_index": 451
+  },
+  {
+    "id": "C13-heidianshaonv-1",
+    "title": "报道：《神秘黑点与浪漫少女的背后：波提切利相机的秘密》",
+    "chapter": "盗乐行",
+    "game_location": "收藏品 → 盗乐行 →《报道：《神秘黑点与浪漫少女的背后：波提切利相机的秘密》》",
+    "key": "heidianshaonv",
+    "sub_index": 1,
+    "database_index": 452
+  },
+  {
+    "id": "C01-diaryalpa-1",
+    "title": "Diary Alpa 220 02 01",
+    "chapter": "额外章节",
+    "game_location": "收藏品 → 额外章节 →《Diary Alpa 220 02 01》",
+    "key": "diaryalpa",
+    "sub_index": 1,
+    "database_index": 453
+  },
+  {
+    "id": "C01-diaryalpa-2",
+    "title": "Diary Alpa 220 02 01·线索一",
+    "chapter": "额外章节",
+    "game_location": "收藏品 → 额外章节 →《Diary Alpa 220 02 01·线索一》",
+    "key": "diaryalpa",
+    "sub_index": 2,
+    "database_index": 454
+  },
+  {
+    "id": "C01-diaryalpa-3",
+    "title": "Diary Alpa 220 02 01·线索二",
+    "chapter": "额外章节",
+    "game_location": "收藏品 → 额外章节 →《Diary Alpa 220 02 01·线索二》",
+    "key": "diaryalpa",
+    "sub_index": 3,
+    "database_index": 455
+  },
+  {
+    "id": "C01-reportcy-1",
+    "title": "psyche-173号亚空间调查报告·新",
+    "chapter": "额外章节",
+    "game_location": "收藏品 → 额外章节 →《psyche-173号亚空间调查报告·新》",
+    "key": "reportcy",
+    "sub_index": 1,
+    "database_index": 456
+  },
+  {
+    "id": "C01-reportcy-2",
+    "title": "psyche-173号亚空间调查报告·新·线索一",
+    "chapter": "额外章节",
+    "game_location": "收藏品 → 额外章节 →《psyche-173号亚空间调查报告·新·线索一》",
+    "key": "reportcy",
+    "sub_index": 2,
+    "database_index": 457
+  },
+  {
+    "id": "C01-reportcy-3",
+    "title": "psyche-173号亚空间调查报告·新·线索二",
+    "chapter": "额外章节",
+    "game_location": "收藏品 → 额外章节 →《psyche-173号亚空间调查报告·新·线索二》",
+    "key": "reportcy",
+    "sub_index": 3,
+    "database_index": 458
+  },
+  {
+    "id": "C10-nizhidaoma-1",
+    "title": "归零",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《归零》",
+    "key": "nizhidaoma",
+    "sub_index": 1,
+    "database_index": 459
+  },
+  {
+    "id": "C10-m9beginning-1",
+    "title": "D.O.M.E.",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《D.O.M.E.》",
+    "key": "m9beginning",
+    "sub_index": 1,
+    "database_index": 460
+  },
+  {
+    "id": "C10-qiongdingguzhou-1",
+    "title": "行与憩",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《行与憩》",
+    "key": "qiongdingguzhou",
+    "sub_index": 1,
+    "database_index": 461
+  },
+  {
+    "id": "C10-domeabout1-1",
+    "title": "关于：PhigrOS",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《关于：PhigrOS》",
+    "key": "domeabout1",
+    "sub_index": 1,
+    "database_index": 462
+  },
+  {
+    "id": "C10-domeabout2-1",
+    "title": "关于：像素塔",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《关于：像素塔》",
+    "key": "domeabout2",
+    "sub_index": 1,
+    "database_index": 463
+  },
+  {
+    "id": "C10-domeabout3-1",
+    "title": "关于：林泊",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《关于：林泊》",
+    "key": "domeabout3",
+    "sub_index": 1,
+    "database_index": 464
+  },
+  {
+    "id": "C10-domeabout4-1",
+    "title": "关于：穹顶",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《关于：穹顶》",
+    "key": "domeabout4",
+    "sub_index": 1,
+    "database_index": 465
+  },
+  {
+    "id": "C10-domeabout5-1",
+    "title": "关于：幽蓝边界",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《关于：幽蓝边界》",
+    "key": "domeabout5",
+    "sub_index": 1,
+    "database_index": 466
+  },
+  {
+    "id": "C10-domeabout6-1",
+    "title": "关于：收藏品",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《关于：收藏品》",
+    "key": "domeabout6",
+    "sub_index": 1,
+    "database_index": 467
+  },
+  {
+    "id": "C10-nizhidaoma-2",
+    "title": "破译：About The Universe",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《破译：About The Universe》",
+    "key": "nizhidaoma",
+    "sub_index": 2,
+    "database_index": 468
+  },
+  {
+    "id": "C10-nizhidaoma-3",
+    "title": "破译：About The Universe·线索一",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《破译：About The Universe·线索一》",
+    "key": "nizhidaoma",
+    "sub_index": 3,
+    "database_index": 469
+  },
+  {
+    "id": "C10-nizhidaoma-4",
+    "title": "破译：About The Universe·线索二",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《破译：About The Universe·线索二》",
+    "key": "nizhidaoma",
+    "sub_index": 4,
+    "database_index": 470
+  },
+  {
+    "id": "C10-poyidomejiu-1",
+    "title": "破译：Evanescent",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《破译：Evanescent》",
+    "key": "poyidomejiu",
+    "sub_index": 1,
+    "database_index": 471
+  },
+  {
+    "id": "C10-poyidomejiu-2",
+    "title": "破译：Evanescent·线索一",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《破译：Evanescent·线索一》",
+    "key": "poyidomejiu",
+    "sub_index": 2,
+    "database_index": 472
+  },
+  {
+    "id": "C10-poyidomegino-1",
+    "title": "破译：Implexrough",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《破译：Implexrough》",
+    "key": "poyidomegino",
+    "sub_index": 1,
+    "database_index": 473
+  },
+  {
+    "id": "C10-poyidomegino-2",
+    "title": "破译：Implexrough·线索一",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《破译：Implexrough·线索一》",
+    "key": "poyidomegino",
+    "sub_index": 2,
+    "database_index": 474
+  },
+  {
+    "id": "C10-liangrenhuihe-1",
+    "title": "收获",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《收获》",
+    "key": "liangrenhuihe",
+    "sub_index": 1,
+    "database_index": 475
+  },
+  {
+    "id": "C10-blackhole-1",
+    "title": "答案",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《答案》",
+    "key": "blackhole",
+    "sub_index": 1,
+    "database_index": 476
+  },
+  {
+    "id": "C10-themirage-1",
+    "title": "系外幻象",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《系外幻象》",
+    "key": "themirage",
+    "sub_index": 1,
+    "database_index": 477
+  },
+  {
+    "id": "C10-sundemimi-1",
+    "title": "隼的笔记本",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《隼的笔记本》",
+    "key": "sundemimi",
+    "sub_index": 1,
+    "database_index": 478
+  },
+  {
+    "id": "C10-sundemimi-2",
+    "title": "隼的笔记本·线索一",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《隼的笔记本·线索一》",
+    "key": "sundemimi",
+    "sub_index": 2,
+    "database_index": 479
+  },
+  {
+    "id": "C10-sundemimi-3",
+    "title": "隼的笔记本·线索二",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《隼的笔记本·线索二》",
+    "key": "sundemimi",
+    "sub_index": 3,
+    "database_index": 480
+  },
+  {
+    "id": "C10-sundemimi-4",
+    "title": "隼的笔记本·线索三",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《隼的笔记本·线索三》",
+    "key": "sundemimi",
+    "sub_index": 4,
+    "database_index": 481
+  },
+  {
+    "id": "C10-guguthinking1-1",
+    "title": "自白·其一",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《自白·其一》",
+    "key": "guguthinking1",
+    "sub_index": 1,
+    "database_index": 482
+  },
+  {
+    "id": "C10-guguthinking2-1",
+    "title": "自白·其二",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《自白·其二》",
+    "key": "guguthinking2",
+    "sub_index": 1,
+    "database_index": 483
+  },
+  {
+    "id": "C10-guguthinking3-1",
+    "title": "自白·其三",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《自白·其三》",
+    "key": "guguthinking3",
+    "sub_index": 1,
+    "database_index": 484
+  },
+  {
+    "id": "C10-heimu1-1",
+    "title": "音乐游戏Phigros",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《音乐游戏Phigros》",
+    "key": "heimu1",
+    "sub_index": 1,
+    "database_index": 485
+  },
+  {
+    "id": "C10-heimu1-2",
+    "title": "音乐游戏Phigros·线索一",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《音乐游戏Phigros·线索一》",
+    "key": "heimu1",
+    "sub_index": 2,
+    "database_index": 486
+  },
+  {
+    "id": "C10-thechaos-1",
+    "title": "混沌入口",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《混沌入口》",
+    "key": "thechaos",
+    "sub_index": 1,
+    "database_index": 487
+  },
+  {
+    "id": "C10-thenoise-1",
+    "title": "破译·噪域",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《破译·噪域》",
+    "key": "thenoise",
+    "sub_index": 1,
+    "database_index": 488
+  },
+  {
+    "id": "C10-thewall-1",
+    "title": "破译·辟径",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《破译·辟径》",
+    "key": "thewall",
+    "sub_index": 1,
+    "database_index": 489
+  },
+  {
+    "id": "C10-thewinner-1",
+    "title": "来信",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《来信》",
+    "key": "thewinner",
+    "sub_index": 1,
+    "database_index": 490
+  },
+  {
+    "id": "C10-themessage-1",
+    "title": "再见",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《再见》",
+    "key": "themessage",
+    "sub_index": 1,
+    "database_index": 491
+  },
+  {
+    "id": "C10-thelier-1",
+    "title": "现实",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《现实》",
+    "key": "thelier",
+    "sub_index": 1,
+    "database_index": 492
+  },
+  {
+    "id": "C10-unknownsignal1-1",
+    "title": "未知信号#1",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《未知信号#1》",
+    "key": "unknownsignal1",
+    "sub_index": 1,
+    "database_index": 493
+  },
+  {
+    "id": "C10-unknownsignal2-1",
+    "title": "未知信号#2",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《未知信号#2》",
+    "key": "unknownsignal2",
+    "sub_index": 1,
+    "database_index": 494
+  },
+  {
+    "id": "C10-unknownsignal3-1",
+    "title": "未知信号#3",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《未知信号#3》",
+    "key": "unknownsignal3",
+    "sub_index": 1,
+    "database_index": 495
+  },
+  {
+    "id": "C10-unknownsignal4-1",
+    "title": "未知信号#4",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《未知信号#4》",
+    "key": "unknownsignal4",
+    "sub_index": 1,
+    "database_index": 496
+  },
+  {
+    "id": "C10-unknownsignal5-1",
+    "title": "未知信号#5",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《未知信号#5》",
+    "key": "unknownsignal5",
+    "sub_index": 1,
+    "database_index": 497
+  },
+  {
+    "id": "C10-unknownsignal6-1",
+    "title": "未知信号#6",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《未知信号#6》",
+    "key": "unknownsignal6",
+    "sub_index": 1,
+    "database_index": 498
+  },
+  {
+    "id": "C10-unknownsignal7-1",
+    "title": "未知信号#7",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《未知信号#7》",
+    "key": "unknownsignal7",
+    "sub_index": 1,
+    "database_index": 499
+  },
+  {
+    "id": "C10-unknownsignal8-1",
+    "title": "未知信号#8",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《未知信号#8》",
+    "key": "unknownsignal8",
+    "sub_index": 1,
+    "database_index": 500
+  },
+  {
+    "id": "C10-unknownsignal9-1",
+    "title": "未知信号#9",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《未知信号#9》",
+    "key": "unknownsignal9",
+    "sub_index": 1,
+    "database_index": 501
+  },
+  {
+    "id": "C10-unknownsignal10-1",
+    "title": "未知信号#10",
+    "chapter": "穹顶孤舟",
+    "game_location": "收藏品 → 穹顶孤舟 →《未知信号#10》",
+    "key": "unknownsignal10",
+    "sub_index": 1,
+    "database_index": 502
+  }
+]

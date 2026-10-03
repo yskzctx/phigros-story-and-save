@@ -1,0 +1,56 @@
+{
+  "version": "4.0.1 (157)",
+  "tag": "v4.0.1-157",
+  "assets": [
+    {
+      "name": "Phigros-story-guide-4.0.1.epub",
+      "bytes": 213284,
+      "sha256": "41fc46028e2a56303281407eedda4bcdddd5dadbfaf36106fb709c83c46811cf"
+    },
+    {
+      "name": "Phigros-story-guide-4.0.1.html",
+      "bytes": 535143,
+      "sha256": "c907d1ce5653cc7e3f7ca21a1c2ff3578cc6ab136bf7cf06f0837c60911ab0ec"
+    },
+    {
+      "name": "Phigros-story-guide-4.0.1-bundle.zip",
+      "bytes": 311623,
+      "sha256": "0e8984fed2489c98f3261eece13e9fc2072130c2b2f243fc9180ed5bca601a03"
+    },
+    {
+      "name": "Phigros-4.0.1-157-AllAP-Android-Root.zip",
+      "bytes": 120929,
+      "sha256": "7a8d84b304c34bac7d471b74730cb0dddd3803c7917c652bfb4027e860e007bb"
+    },
+    {
+      "name": "Phigros-4.0.1-bilibili-kit.zip",
+      "bytes": 8011496,
+      "sha256": "377bb4e655ccaef59f9702c39fd3cb02d5f874961128e91554584aca599101f0"
+    },
+    {
+      "name": "Phigros-4.0.1-introduction.mp4",
+      "bytes": 7670366,
+      "sha256": "a222aeb84ed2002ee4857852f6c7a8677bb8f1f0a7701ac606c926fe970fdac1"
+    },
+    {
+      "name": "Phigros-4.0.1-cover.png",
+      "bytes": 822905,
+      "sha256": "1b47ffa525fb0a03f77ae683a1839f564af73b124d50cc651fa1275c32f43975"
+    },
+    {
+      "name": "Phigros-4.0.1-subtitles.srt",
+      "bytes": 2450,
+      "sha256": "f056d5017e4184be56603effa01ed7c7e03592f88eada37d9fe7c9728376b3aa"
+    },
+    {
+      "name": "Phigros-4.0.1-bilibili-post.txt",
+      "bytes": 3201,
+      "sha256": "e32d99f815a8418501ee05c9b1c9bf0ea182b599beb1be50086fc117793e0fd1"
+    },
+    {
+      "name": "Phigros-4.0.1-storyboard.txt",
+      "bytes": 1762,
+      "sha256": "6848fb2179d328b3a135e207d6e994d0c6cb749e5fe6d6343b1479317bd5d6c2"
+    }
+  ]
+}

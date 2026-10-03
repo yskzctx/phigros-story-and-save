@@ -1,0 +1,52 @@
+{
+  "game_version": "4.0.1 (157)",
+  "variant": "anonymous-ap",
+  "source_client_package": "com.PigeonGames.Phigros",
+  "source_client_manifest_verified": true,
+  "source_client_distribution": "APKCombo public Google Play split archive",
+  "collection_database_records": 503,
+  "collection_groups": 320,
+  "new_collection_records": 20,
+  "all_collection_records_covered": true,
+  "all_collection_read_states_complete": true,
+  "avatars_unlocked": 109,
+  "songs": 327,
+  "regular_charts": 1037,
+  "all_ap_verified": true,
+  "all_source_score_entries_byte_preserved": true,
+  "chapter9_phase2_passed": true,
+  "chapter9_phase2_step": 4,
+  "chapter9_phase2_step_name": "BaselineChallenge",
+  "completion_marker": "4.0",
+  "chapter9_song_unlock_flags": [
+    "C9AboutTheUniverseUnlocked",
+    "C9AmetrineUnlocked",
+    "C9DesultorySignalsUnlocked",
+    "C9EntranceToTheChaosUnlocked",
+    "C9EvanescentUnlocked",
+    "C9ExoplanetaryMirageUnlocked",
+    "C9HappyEndingUnlocked",
+    "C9HateUnlocked",
+    "C9ImplexroughUnlocked",
+    "C9MessageUnlocked",
+    "C9PetrichorUnlocked",
+    "C9S6Unlocked"
+  ],
+  "pending_story_resume_fields_removed": [
+    "C9PendingMessageAfterQuit",
+    "C9PendingMessageLevel"
+  ],
+  "secret_challenge_life_tier_max": 4,
+  "autoSync": false,
+  "client_end_state_routine": "C9AfterDeductionControl.<Start>d__12.MoveNext",
+  "client_end_state_save_rva": "0x1D400F4",
+  "client_persistent_step_enum_checked": true,
+  "output_byte_exact_roundtrip": true,
+  "runtime_tested": false,
+  "sha256": "6f88e9e2a77fcf59caecf230002963a524945c05ddde65957ef8944de72d4d0d",
+  "limits": [
+    "No device execution or cloud-login stability test.",
+    "Based on previously delivered saves, not the user device after subsequent play.",
+    "SP performance charts are excluded from regular-record coverage."
+  ]
+}

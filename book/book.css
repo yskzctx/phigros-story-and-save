@@ -1,0 +1,29 @@
+@charset "UTF-8";
+body { font-family: "Noto Serif CJK SC", "Songti SC", "STSong", serif; line-height:1.85; color:#202a35; background:#fffdf8; margin: 5%; }
+h1,h2,h3 { font-family:"Noto Sans CJK SC","PingFang SC",sans-serif; line-height:1.4; text-align:left; font-weight:600; }
+h1 { font-size:1.8em; color:#173b50; border-bottom:2px solid #d5a46f; padding-bottom:.6em; margin-top:1.4em; }
+h2 { font-size:1.3em; color:#23566c; margin-top:2em; }
+h3 { font-size:1.07em; margin:1.5em 0 .45em; }
+p { margin: .8em 0; text-align:justify; overflow-wrap:anywhere; }
+a { color:#176481; text-decoration:underline; }
+.citation { font-family:"Noto Sans CJK SC","PingFang SC",sans-serif; font-size:.82em; line-height:1.65; border-left:3px solid #c29566; padding:.25em 0 .25em .8em; margin:.45em 0 1.6em; }
+.citation p { margin:.2em 0; text-align:left; }
+.label { font-family:sans-serif; font-size:.8em; color:#875a2d; }
+.item { margin:1.4em 0; padding-bottom:1em; border-bottom:1px solid #ddd8cb; }
+.item p { margin:.5em 0; }
+.game-location { font-family:sans-serif; font-size:.9em; color:#32536a; line-height:1.7; }
+.meta,.backrefs { font-family:sans-serif; font-size:.78em; line-height:1.6; color:#59656a; }
+.status { font-size:.85em; font-family:sans-serif; color:#875a2d; }
+.notice { border:1px solid #c6b79c; padding:.5em 1em; margin:1.5em 0; }
+.titlepage { text-align:center; margin:3em 0; }
+.titlepage p { text-align:center; }
+.subtitle { font-family:sans-serif; color:#5c6b70; }
+table { border-collapse:collapse; width:100%; font-size:.85em; line-height:1.6; margin:1em 0; }
+th,td { border-bottom:1px solid #d3d3c6; padding:.6em; text-align:left; vertical-align:top; }
+th { background:#e9eee9; font-family:sans-serif; }
+tr { break-inside:avoid; }
+figure, img { max-width:100%; }
+nav ol, #TOC ul { padding-left:1.3em; }
+code { overflow-wrap:anywhere; font-size:.85em; }
+@media (prefers-color-scheme:dark) { body {color:#e6e7e3;background:#17242d;} h1,h2,h3 {color:#9fd0df;} a {color:#9fd0df;} th{background:#29404d;} .game-location,.meta,.backrefs,.subtitle {color:#bfcbd1;} .status,.label{color:#e5bb85;} }
+@media screen and (min-width:900px) { body {max-width:850px; margin:3em auto; padding:0 2em;} }

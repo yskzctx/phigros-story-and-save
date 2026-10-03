@@ -1,0 +1,42 @@
+{
+  "package": "com.PigeonGames.Phigros",
+  "version_name": "4.0.1",
+  "version_code": 157,
+  "source": "https://apkcombo.com/phigros/com.PigeonGames.Phigros/download/apk",
+  "download_archive_bytes": 3337114818,
+  "collection_database": "datapack.unity3d/sharedassets22.assets/CollectionDatabase#143",
+  "collections": 503,
+  "collection_groups": 320,
+  "chapter_9_collections": 44,
+  "old_collection_records": 483,
+  "added_collection_records": 20,
+  "serialized_database_fully_consumed": true,
+  "inventory_titles_cross_checked_with_unlock_index": true,
+  "files": [
+    {
+      "path": "com.PigeonGames.Phigros.apk/AndroidManifest.xml",
+      "bytes": 10652,
+      "sha256": "40bcca31767e4646c408e33e3941daeb2162263998e7b1abfcd0f2695df9c9a4"
+    },
+    {
+      "path": "com.PigeonGames.Phigros.apk/assets/bin/Data/Managed/Metadata/global-metadata.dat",
+      "bytes": 11287668,
+      "sha256": "2a7b5e32f1ea08342bf76bab623211e13697fb38a378ead5d5492b941fef0e3d"
+    },
+    {
+      "path": "config.arm64_v8a.apk/lib/arm64-v8a/libil2cpp.so",
+      "bytes": 71706832,
+      "sha256": "511e15b9324c171b585ae954e87266437b5de439289918331d1afce9c2b88433"
+    },
+    {
+      "path": "UnityDataAssetPack.apk/assets/bin/Data/datapack.unity3d",
+      "bytes": 167905416,
+      "sha256": "46ed4eb06332f02e8a32f1bdb13a848e74e9a7ba9314f200d7277eba749d09d1"
+    },
+    {
+      "path": "com.PigeonGames.Phigros.apk/assets/bin/Data/data.unity3d",
+      "bytes": 8105293,
+      "sha256": "94c0f2b1074ba3d0192ce2452e51982f14d50c8f0e0ad9f0aefcbb0d23e6ad68"
+    }
+  ]
+}
