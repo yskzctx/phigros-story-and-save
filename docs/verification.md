@@ -46,4 +46,4 @@ python scripts/verify_release.py
 python scripts/verify_release.py --artifacts-dir /path/to/downloaded-assets
 ```
 
-此模式检查下载目录中已存在的已登记成品哈希、ZIP 完整性和匿名分享包基本结构，不要求下载所有附件。这不替代真机测试。
+此模式检查下载目录中已存在的已登记 EPUB 和 XML 文件的大小与哈希，不要求下载所有附件。这不替代真机测试。

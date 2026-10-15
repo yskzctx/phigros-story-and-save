@@ -2,9 +2,7 @@
 
 **4.0.1（157）｜第九章第二部分｜非官方资源整理**
 
-<img src="https://github.com/yskzctx/phigros-story-and-save/releases/download/v4.0.1-157/Phigros-4.0.1-cover.png" alt="Phigros 4.0.1：全 AP 存档与逐段出处剧情电子书" width="850">
-
-本仓库分享一份有逐段游戏内出处的剧情导读、一份匿名全 AP 修改存档，以及对应的视频投稿素材。电子书无需 Root；存档仅适用于安卓、已解锁 BL 且已获取 Root 的设备。
+本仓库分享一份有逐段游戏内出处的剧情导读、一份匿名全 AP 修改存档。电子书无需 Root；存档仅适用于安卓、已解锁 BL 且已获取 Root 的设备。
 
 > **存档中的 AP 来自修改，并非实际游玩成绩。仅供离线体验与资料查看，请勿用于排名、成绩认证或冒充个人成绩。** 存档经过静态校验，尚未完成真机运行及云登录测试。
 
@@ -13,13 +11,11 @@
 | 内容 | GitHub 下载 | 网盘备用 |
 | --- | --- | --- |
 | 电子书 EPUB | [下载 EPUB](https://github.com/yskzctx/phigros-story-and-save/releases/download/v4.0.1-157/Phigros-story-guide-4.0.1.epub) | [蓝奏云](https://wwaxo.lanzn.com/i9vzB4apst3a)，提取码 **dvn7** |
-| 电子书资料包（EPUB、HTML、核对记录） | [下载资料包](https://github.com/yskzctx/phigros-story-and-save/releases/download/v4.0.1-157/Phigros-story-guide-4.0.1-bundle.zip) | — |
-| 匿名全 AP 安卓 Root 存档 | [下载存档](https://github.com/yskzctx/phigros-story-and-save/releases/download/v4.0.1-157/Phigros-4.0.1-157-AllAP-Android-Root.zip) | [蓝奏云](https://wwaxo.lanzn.com/ilDe24apst4b)，**无需密码** |
-| 投稿包（视频、封面、字幕、文案、分镜） | [下载投稿包](https://github.com/yskzctx/phigros-story-and-save/releases/download/v4.0.1-157/Phigros-4.0.1-bilibili-kit.zip) | — |
+| 匿名全 AP 安卓 Root 存档 XML | [下载存档](https://github.com/yskzctx/phigros-story-and-save/releases/download/v4.0.1-157/com.PigeonGames.Phigros.v2.playerprefs.xml) | [蓝奏云](https://wwaxo.lanzn.com/ilDe24apst4b)，**无需密码** |
 
 [查看全部发布文件](https://github.com/yskzctx/phigros-story-and-save/releases) · [哔哩哔哩介绍视频](https://www.bilibili.com/video/BV1QFHh6FEVA/)
 
-EPUB、HTML、存档 ZIP、视频与投稿素材包均在 Releases 提供；主分支仅保留源码、文档和核对记录。
+Releases 仅提供电子书 EPUB 本体和可直接替换的加密存档 XML；主分支保留源码、文档和核对记录。
 
 ## 剧情电子书
 
@@ -47,13 +43,13 @@ AP 指满分，FC 指全连。SP 演出谱面不计入上述常规成绩数量�
 
 **安卓手机 + BL（Bootloader）已解锁 + 已获取 Root，三项均需满足。** 仅解锁 BL、没有 Root 的设备，以及 iOS 设备，不适用本存档。
 
-先强制停止游戏，另行备份原存档，再用下载包内已加密的同名 XML 替换：
+先强制停止游戏，另行备份原存档，再用下载的同名加密 XML 替换：
 
 ```text
 /data/data/com.PigeonGames.Phigros/shared_prefs/com.PigeonGames.Phigros.v2.playerprefs.xml
 ```
 
-保留文件原有所有者、用户组和权限。`editable.decrypted.xml` 是明文编辑版，不能直接导入游戏。建议断网首次启动；异常时停止游戏并恢复备份。
+保留文件原有所有者、用户组和权限。发行版提供的是可直接替换的加密 XML。建议断网首次启动；异常时停止游戏并恢复备份。
 
 **替换会覆盖原成绩与设置；云存档下载可能覆盖本地修改。** 本存档按 4.0.1（157）制作，其他版本兼容性未经验证。完整步骤见 [存档使用说明](docs/save-guide.md)。
 
@@ -61,7 +57,6 @@ AP 指满分，FC 指全连。SP 演出谱面不计入上述常规成绩数量�
 
 - 存档：加密往返、常规谱面全 AP、503 条收藏品覆盖和个人标识清理检查通过；**尚未真机测试**。
 - 电子书：EPUBCheck 检查无错误、无警告；1,229 个内部链接核对无断链。
-- 视频：约 1 分 46 秒，1080p、30 fps，中文合成配音与字幕；视频解码检查通过。
 - 源文件完整性：[SHA256SUMS](SHA256SUMS)。校验命令：`python scripts/verify_release.py`。
 - 成品文件哈希：[发行附件清单](verification/release-assets.json)。下载成品后可运行 `python scripts/verify_release.py --artifacts-dir 下载目录`。
 
